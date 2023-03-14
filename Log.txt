@@ -1,0 +1,1626 @@
+2023-03-14T16:26:22.080639: info: Default App: Begin SavePrefs
+2023-03-14T16:26:22.086058: info: Default App: End SavePrefs
+2023-03-14T16:26:24.622731: info: Default App: Begin SavePrefs
+2023-03-14T16:26:24.625000: info: Default App: End SavePrefs
+2023-03-14T16:26:25.004405: info: Default App: Begin ExchangeDocument
+2023-03-14T16:26:25.004473: info: MemoryUsage: V: 421.4 GB, R: 643.3 MB, P: 0 Bytes
+2023-03-14T16:26:25.023666: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:25.025807: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:25.028977: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:26:25.029028: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:26:25.029046: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:26:25.029058: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:26:25.029071: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:26:25.029095: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:26:25.035058: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:26:25.046340: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:25.046452: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:25.056108: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:26:25.077555: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:26:25.077580: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:26:25.077701: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:26:25.078342: info: Default App: End ExchangeDocument
+2023-03-14T16:26:25.078358: info: MemoryUsage: V: 421.4 GB, R: 645.7 MB, P: 0 Bytes
+2023-03-14T16:26:25.104463: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/104/0
+2023-03-14T16:26:25.114141: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:25.114854: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:25.119321: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:26:25.119858: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:26:25.119877: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:26:25.119890: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:26:25.119903: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:26:25.119920: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:26:25.125150: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:26:25.136270: info: LSongAgent: Begin Destructing
+2023-03-14T16:26:25.136625: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:25.136633: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:25.137839: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/36/0
+2023-03-14T16:26:25.137906: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:26:25.140477: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:26:25.140513: info: Audio In Out: Stop started
+2023-03-14T16:26:25.143999: info: Audio In Out: Begin of UpdateAudioStateStatic
+2023-03-14T16:26:25.144254: info: Audio In Out: Driver Type: CoreAudio
+2023-03-14T16:26:25.144271: info: Audio In Out: Input Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:26:25.144278: info: Audio In Out: Output Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:26:25.144287: info: Audio In Out: Input Buffer Size: 256 Samples
+2023-03-14T16:26:25.144294: info: Audio In Out: Input Latency: 0.00 ms
+2023-03-14T16:26:25.144300: info: Audio In Out: Driver Error Compensation (ms): 0.00 ms
+2023-03-14T16:26:25.144305: info: Audio In Out: Overall Latency: 17.2 ms
+2023-03-14T16:26:25.144333: info: Audio In Out: End of UpdateAudioStateStatic
+2023-03-14T16:26:25.144403: info: Audio In Out: Stop finished
+2023-03-14T16:26:25.144590: info: Audio In Out: Exit started
+2023-03-14T16:26:25.144603: info: Audio In Out: Exit finished
+2023-03-14T16:26:25.144608: info: LSongAgent: End Destructing
+2023-03-14T16:26:25.144798: info: MidiDeviceManager: Start CloseAllActivatedDevices
+2023-03-14T16:26:25.146101: info: MidiDeviceManager: End CloseAllActivatedDevices
+2023-03-14T16:26:25.146958: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:26:25.146982: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:26:25.146993: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/6/0
+2023-03-14T16:26:25.148207: info: Live App: GlobalExit(): Start
+2023-03-14T16:26:25.151050: info: Audio time allocations: AudioBuffer: Capacity/Used/Failures: 1000/0/0
+2023-03-14T16:26:25.151093: info: Audio time allocations: AudioBuffer: Capacity/Used/Failures: 1956/18/0
+2023-03-14T16:26:25.151807: info: WebConnectStarter: Stop
+2023-03-14T16:26:25.172372: info: Live App: GlobalExit(): End
+2023-03-14T16:26:26.370377: info: #######################################
+2023-03-14T16:26:26.370405: info: Started: Live 11.2.10 Build: 2023-02-01_a70e3f18ac
+2023-03-14T16:26:26.370411: info: #######################################
+2023-03-14T16:26:26.370415: info: Init: Setup environment
+2023-03-14T16:26:26.370421: info: Options: -_RepairNonUniquePointeeIds
+2023-03-14T16:26:26.404624: info: UUID: 2237491A-DF70-315C-A3AE-2CBAC2401A7B
+2023-03-14T16:26:26.406077: info: Code ID: identifier "com.ableton.live" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = MWR434WD94
+2023-03-14T16:26:26.406182: info: Init: Version: 'Live 11.2.10 Build: 2023-02-01_a70e3f18ac' 1114640
+2023-03-14T16:26:26.406197: info: Init: BuildRevisions: a70e3f18ac1d93094ec19c7ca1ea7cfc1a1a7543
+2023-03-14T16:26:26.406208: info: Init: Commit ID: 'a70e3f18ac1d93094ec19c7ca1ea7cfc1a1a7543'
+2023-03-14T16:26:26.406671: info: Init: OS: 'macOS 12.5.1 (21G83), Arch:arm64'
+2023-03-14T16:26:26.406689: info: Init: BuildType: 'Release'
+2023-03-14T16:26:26.406695: info: Init: Pid: 5224
+2023-03-14T16:26:26.406713: info: Init: Hardware Model: 'Mac13,1'
+2023-03-14T16:26:26.406725: info: Init: CPU Brand String: 'Apple M1 Max'
+2023-03-14T16:26:26.406731: info: Init: CPU Count: 10
+2023-03-14T16:26:26.406745: info: Init: Physical RAM: 34359738368 B
+2023-03-14T16:26:26.406750: info: Init: Address Space: 18446744073709551615 B
+2023-03-14T16:26:26.406756: info: Init: 64-bit Edition
+2023-03-14T16:26:26.855114: info: Init: Checksum 1: 6ce8613076be07b07f15e36287902ffe
+2023-03-14T16:26:27.004999: info: Init: Checksum 2: 43ce93bb20dce13acb4d6d867c993abb
+2023-03-14T16:26:27.148083: info: Init: Checksum 3: 43ce93bb20dce13acb4d6d867c993abb
+2023-03-14T16:26:27.151713: info: Licensing: [Variant=Standard]
+2023-03-14T16:26:27.151987: info: Metadata: Initialize XMP system
+2023-03-14T16:26:27.152159: info: Net: Setting up connection framework
+2023-03-14T16:26:27.152978: info: Licensing: Licenses loaded: 
+  [ProductId=0x00, ProductVersion=0xB0, DistributionType=KStandard]
+2023-03-14T16:26:27.153000: info: Licensing: Use server: https://services.ableton.com
+2023-03-14T16:26:27.188364: info: Init: Screen at +0+0: 1920x1080, scale 1
+2023-03-14T16:26:27.254038: info: FileLimit: Maximum number of files was : 256 (err: 0)
+2023-03-14T16:26:27.254084: info: FileLimit: Tried to set maximum number of files to : 8192 (err: 0)
+2023-03-14T16:26:27.254091: info: FileLimit: Maximum number of files now : 8192 (err: 0)
+2023-03-14T16:26:27.254095: info: Init LanguageManager
+2023-03-14T16:26:27.254214: info: MemoryUsage: V: 419.5 , R: 213.3 , P: 0 
+2023-03-14T16:26:27.625722: info: Init Menu
+2023-03-14T16:26:27.625850: info: Run event loop
+2023-03-14T16:26:27.658283: info: Begin building application
+2023-03-14T16:26:27.659857: info: Create App
+2023-03-14T16:26:27.660190: info: Register main window
+2023-03-14T16:26:27.660201: info: Check for other instance
+2023-03-14T16:26:27.671630: info: Init App
+2023-03-14T16:26:27.671673: info: Live App: Init usage data writer
+2023-03-14T16:26:27.673887: info: Live App: Begin Init
+2023-03-14T16:26:27.673902: info: Live App: Start as first instance: yes
+2023-03-14T16:26:27.673949: info: Database: Loading database from "/Users/philiptabor/Library/Application Support/Ableton/Live Database/Live-files-53.db"
+2023-03-14T16:26:27.673977: info: Database: Open database '/Users/philiptabor/Library/Application Support/Ableton/Live Database/Live-files-53.db' (key: SQL[2], sqlite 3.30.1)
+2023-03-14T16:26:27.690598: info: Database: Open database '/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Database/filerefmap.db' (key: SQL[3], sqlite 3.30.1)
+2023-03-14T16:26:27.692125: info: Default App: Begin InitApplication
+2023-03-14T16:26:27.746727: info: Metal: Enabled.
+2023-03-14T16:26:27.750993: info: Metal: Using Apple M1 Max.
+  GPU feature set support:
+    Family1_v1:              true
+    Family1_v2:              true
+    Family1_v3:              true
+    Family1_v4:              true
+    Family2_v1:              true
+    ReadWriteTextureTier2:   false
+2023-03-14T16:26:27.759499: info: Default App: Begin LoadPrefs
+2023-03-14T16:26:27.760011: info: VuMeter: Use default. MeterUpdateRate = 40
+2023-03-14T16:26:27.760029: info: Audio In Out: Constructor started
+2023-03-14T16:26:27.760040: info: Audio In Out: Constructor finished
+2023-03-14T16:26:27.781394: info: CoreAudio: Device init: Universal Audio Thunderbolt (34 In, 36 Out) (Universal Audio, Inc., Id: 54, UniqueId: com_uaudio_driver_UAD2AudioEngine:0)
+2023-03-14T16:26:27.781929: info: CoreAudio: Device init: R240HY (0 In, 2 Out) (ACR, Id: 59, UniqueId: 04726F04-0000-0000-201E-010380351E78)
+2023-03-14T16:26:27.784991: info: CoreAudio: Device init: UHD Capture (2 In, 0 Out) (VXIS Inc, Id: 44, UniqueId: AppleUSBAudioEngine:VXIS Inc:UHD Capture:8130000:3)
+2023-03-14T16:26:27.785396: info: CoreAudio: Device init: Mac Studio Speakers (0 In, 2 Out) (Apple Inc., Id: 48, UniqueId: BuiltInSpeakerDevice)
+2023-03-14T16:26:27.785416: info: Audio In Out: OnArchitecturesAdded started
+2023-03-14T16:26:27.785432: info: Audio In Out: OnArchitecturesAdded finished
+2023-03-14T16:26:27.976484: info: ALMidiIO: Start EnumerateDevices
+2023-03-14T16:26:27.979691: info: ALMidiIO: End EnumerateDevices
+2023-03-14T16:26:27.981813: info: Audio In Out: Init started
+2023-03-14T16:26:27.981946: info: Audio In Out: Init finished
+2023-03-14T16:26:27.981969: info: LSongAgent: Begin Constructing
+2023-03-14T16:26:27.985560: info: LSongAgent: End Constructing
+2023-03-14T16:26:27.985608: info: MemoryUsage: V: 419.9 GB, R: 289.8 MB, P: 0 Bytes
+2023-03-14T16:26:27.986269: info: Audio In Out: AfterRead started
+2023-03-14T16:26:27.986300: info: Audio In Out: AfterRead finished
+2023-03-14T16:26:27.986384: info: MidiDeviceManager: Start OpenAllActivatedDevices
+2023-03-14T16:26:27.989775: info: MidiDeviceManager: End OpenAllActivatedDevices
+2023-03-14T16:26:27.989914: info: ALivePreferences: Begin AfterPreferencesLoaded
+2023-03-14T16:26:27.989929: info: ALivePreferences: Session cookie?: yes
+2023-03-14T16:26:27.998894: info: Directories: Core Library Slice dir: [/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library] 
+2023-03-14T16:26:27.999231: info: PluginManager: Scan start ------------------
+2023-03-14T16:26:27.999504: info: Audio Unit: Scan started
+2023-03-14T16:26:28.031833: info: Audio Unit: Scan ended
+2023-03-14T16:26:28.032242: info: Plugins: start scanner process
+2023-03-14T16:26:28.032505: info: PluginManager: Scan end --------------------
+2023-03-14T16:26:28.032530: info: ALivePreferences: End AfterPreferencesLoaded
+2023-03-14T16:26:28.032544: info: Default App: End LoadPrefs
+2023-03-14T16:26:28.046420: info: Default App: Performing pre-document setup...
+2023-03-14T16:26:29.259792: info: LiveUi: AddControlled...
+2023-03-14T16:26:29.274987: info: LiveUi: AddControlled: done.
+2023-03-14T16:26:29.275044: info: Default App: Checking whether to restore the document...
+2023-03-14T16:26:29.275098: info: Default App: Begin OnNew
+2023-03-14T16:26:29.281947: info: Default App: TryToLoadTemplate: Default document exists. Going to load "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Builtin/Templates/DefaultLiveSet.als"'
+2023-03-14T16:26:29.286875: info: Default App: Begin ExchangeDocument
+2023-03-14T16:26:29.286924: info: MemoryUsage: V: 421 GB, R: 313.9 MB, P: 0 Bytes
+2023-03-14T16:26:29.302539: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:29.302570: info: Audio In Out: Start started
+2023-03-14T16:26:29.302577: info: Audio In Out: Internal Start started
+2023-03-14T16:26:29.309650: info: Audio In Out: Begin of UpdateAudioStateStatic
+2023-03-14T16:26:29.311181: info: Audio In Out: Driver Type: CoreAudio
+2023-03-14T16:26:29.311203: info: Audio In Out: Input Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:26:29.311209: info: Audio In Out: Output Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:26:29.311221: info: Audio In Out: Input Channels: 16
+2023-03-14T16:26:29.311230: info: Audio In Out: Output Channels: 16
+2023-03-14T16:26:29.311235: info: Audio In Out: Sample Rate: 48000
+2023-03-14T16:26:29.311240: info: Audio In Out: Input Buffer Size: 256 Samples
+2023-03-14T16:26:29.311385: info: Audio In Out: Input Latency: 11.4 ms
+2023-03-14T16:26:29.311522: info: Audio In Out: Output Buffer Size: 256 Samples
+2023-03-14T16:26:29.311661: info: Audio In Out: Output Latency: 5.85 ms
+2023-03-14T16:26:29.311918: info: Audio In Out: Output Latency (with buffering): 5.85 ms
+2023-03-14T16:26:29.312284: info: Audio In Out: Driver Error Compensation (ms): 0.00 ms
+2023-03-14T16:26:29.312301: info: Audio In Out: Overall Latency: 17.2 ms
+2023-03-14T16:26:29.312378: info: Audio In Out: End of UpdateAudioStateStatic
+2023-03-14T16:26:29.506069: info: Audio In Out: Internal Start finished
+2023-03-14T16:26:29.506124: info: Audio In Out: Start finished
+2023-03-14T16:26:29.506277: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:29.528366: info: MemoryUsage: V: 421 GB, R: 355.6 MB, P: 0 Bytes
+2023-03-14T16:26:29.535386: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:26:29.535399: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:26:29.535502: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:26:29.535526: info: Default App: End ExchangeDocument
+2023-03-14T16:26:29.535537: info: MemoryUsage: V: 421 GB, R: 355.8 MB, P: 0 Bytes
+2023-03-14T16:26:29.535620: info: Loading document "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Builtin/Templates/DefaultLiveSet.als"
+2023-03-14T16:26:29.553769: info: Loaded document was created by Ableton Live 11.1d1
+2023-03-14T16:26:29.553790: info: Default App: Begin ExchangeDocument
+2023-03-14T16:26:29.553802: info: MemoryUsage: V: 421 GB, R: 363.3 MB, P: 0 Bytes
+2023-03-14T16:26:29.634555: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:29.635209: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:29.639934: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:26:29.640028: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:26:29.640057: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:26:29.640071: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:26:29.640096: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:26:29.640109: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:26:29.651906: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:29.652115: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:29.660421: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/41/0
+2023-03-14T16:26:29.660619: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:26:29.745620: info: MemoryUsage: V: 421 GB, R: 422.1 MB, P: 0 Bytes
+2023-03-14T16:26:30.157369: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:26:30.157390: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:26:30.157531: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:26:30.157792: info: Python: INFO:_Framework.ControlSurface:157 - LOG: (css_test_script) Initializing...
+2023-03-14T16:26:30.157809: info: RemoteScriptMessage: (css_test_script) Initializing...
+2023-03-14T16:26:30.167019: info: Python: INFO:_Framework.ControlSurface:166 - LOG: (Launchpad_MK2) Initializing...
+2023-03-14T16:26:30.167040: info: RemoteScriptMessage: (Launchpad_MK2) Initializing...
+2023-03-14T16:26:30.253535: info: Default App: End ExchangeDocument
+2023-03-14T16:26:30.253593: info: MemoryUsage: V: 421 GB, R: 433.1 MB, P: 0 Bytes
+2023-03-14T16:26:30.255787: info: Default App: End InitApplication
+2023-03-14T16:26:30.255855: info: Live App: End Init
+2023-03-14T16:26:30.322707: info: Finish building application
+2023-03-14T16:26:30.354743: info: Performance: Startup hook 'CloseSplashScreen': Running time: 2 ms
+2023-03-14T16:26:30.373953: info: Performance: Startup hook 'OpenSecondWindowOnStartup': Running time: 0 ms
+2023-03-14T16:26:30.393207: info: WebConnectStarter: Starting up
+2023-03-14T16:26:30.395593: info: ExternalSubProcess: Going to start: "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Extensions/WebConnector/Ableton Web Connector"
+2023-03-14T16:26:30.396986: info: ExternalSubProcess: Started with pid: 5226
+2023-03-14T16:26:30.397043: info: Performance: Startup hook 'StartWebConnector': Running time: 4 ms
+2023-03-14T16:26:30.413160: info: Performance: Startup hook 'WriteUsageData': Running time: 0 ms
+2023-03-14T16:26:30.433880: info: ExternalSubProcess: Going to start: "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Extensions/Index/Ableton Index"
+2023-03-14T16:26:30.435080: info: ExternalSubProcess: Started with pid: 5227
+2023-03-14T16:26:30.435110: info: SubProcess: Set process priority 2 for pid 5227
+2023-03-14T16:26:30.435131: info: Performance: Startup hook 'StartIndex': Running time: 2 ms
+2023-03-14T16:26:30.463519: info: Licensing: Applying startup configuration: 00, IsDemo=false
+2023-03-14T16:26:30.469478: info: Performance: Startup hook 'CheckRegistrationAppStartupHook': Running time: 16 ms
+2023-03-14T16:26:30.483925: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:26:30.484179: info: Performance: Startup hook 'FileSystemEndUpdate': Running time: 0 ms
+2023-03-14T16:26:30.493837: info: Link: Disabled
+2023-03-14T16:26:30.919273: info: Max: Version 8.3.3 (6f7f6680766)
+2023-03-14T16:26:30.919648: info: Performance: Startup hook 'SetupMaxApp': Running time: 392 ms
+2023-03-14T16:26:30.919721: info: MemoryUsage: V: 421.3 GB, R: 541.2 MB, P: 0 Bytes
+2023-03-14T16:26:30.925195: info: Live App: Check for default content
+2023-03-14T16:26:30.928631: info: Performance: Startup hook 'DefaultPackInstallationAppStartupHook': Running time: 3 ms
+2023-03-14T16:26:30.933304: info: Live App: Check for package installation
+2023-03-14T16:26:30.933340: info: Performance: Startup hook 'UserTriggeredPackInstallationAppStartupHook': Running time: 0 ms
+2023-03-14T16:26:30.953841: info: Live App: Check lesson init
+2023-03-14T16:26:30.956359: info: Performance: Startup hook 'ShowLessonAppStartupHook': Running time: 2 ms
+2023-03-14T16:26:30.973879: info: Performance: Startup hook 'InitializeContentLibrary': Running time: 0 ms
+2023-03-14T16:26:31.013019: info: Performance: Startup hook 'StartLibraryRescan': Running time: 0 ms
+2023-03-14T16:26:31.024448: info: Performance: Startup hook 'FetchDownloadablePackListFromWeb': Running time: 0 ms
+2023-03-14T16:26:31.044317: info: Performance: Startup hook 'EndAuthorizationSession': Running time: 0 ms
+2023-03-14T16:26:31.343653: info: Plugins: scanner process stopped
+2023-03-14T16:26:36.946720: info: Default App: Command-line arguments: 
+  Document locations:
+    file:///Users/philiptabor/Downloads/King%20of%20Kings-Awake-D-68.00bpm/mapping%20test.als
+2023-03-14T16:26:36.955501: info: Default App: Begin ExchangeDocument
+2023-03-14T16:26:36.955569: info: MemoryUsage: V: 421.4 GB, R: 582.1 MB, P: 0 Bytes
+2023-03-14T16:26:36.989331: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:36.990439: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:36.994715: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:26:36.994791: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:26:36.994808: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:26:36.994825: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:26:36.994839: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:26:36.994851: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:26:37.007089: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:37.007205: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:37.016435: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/88/0
+2023-03-14T16:26:37.016541: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:26:37.035455: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:26:37.035502: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:26:37.035625: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:26:37.036448: info: Default App: End ExchangeDocument
+2023-03-14T16:26:37.036481: info: MemoryUsage: V: 421.4 GB, R: 605 MB, P: 0 Bytes
+2023-03-14T16:26:37.038259: info: Loading document "/Users/philiptabor/Downloads/King of Kings-Awake-D-68.00bpm/mapping test.als"
+2023-03-14T16:26:37.059655: info: Audio Unit v2: Going to restore: DMXIS (fx)
+2023-03-14T16:26:38.047252: info: Loaded document was created by Ableton Live 11.2.10
+2023-03-14T16:26:38.047638: info: Default App: Begin ExchangeDocument
+2023-03-14T16:26:38.047667: info: MemoryUsage: V: 421.4 GB, R: 612.7 MB, P: 0 Bytes
+2023-03-14T16:26:38.061252: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:38.061855: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:38.066621: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:26:38.066683: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:26:38.066727: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:26:38.066743: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:26:38.066754: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:26:38.066765: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:26:38.072243: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:26:38.079720: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:26:38.079980: info: LSongAgent: End SetSongUnit
+2023-03-14T16:26:38.086902: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/36/0
+2023-03-14T16:26:38.086993: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:26:38.355113: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:26:38.355168: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:26:38.355284: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:26:38.355596: info: Python: INFO:_Framework.ControlSurface:355 - LOG: (css_test_script) Initializing...
+2023-03-14T16:26:38.355621: info: RemoteScriptMessage: (css_test_script) Initializing...
+2023-03-14T16:26:38.379426: info: Python: INFO:_Framework.ControlSurface:379 - LOG: (Launchpad_MK2) Initializing...
+2023-03-14T16:26:38.379480: info: RemoteScriptMessage: (Launchpad_MK2) Initializing...
+2023-03-14T16:26:38.442304: info: Default App: End ExchangeDocument
+2023-03-14T16:26:38.442353: info: MemoryUsage: V: 421.4 GB, R: 627.9 MB, P: 0 Bytes
+2023-03-14T16:26:38.495683: info: Audio Unit v2: Restored: DMXIS (fx)
+2023-03-14T16:26:38.672945: info: Link: Disabled
+2023-03-14T16:29:05.728733: info: Default App: Begin SavePrefs
+2023-03-14T16:29:05.734003: info: Default App: End SavePrefs
+2023-03-14T16:29:08.870788: info: Default App: Begin ExchangeDocument
+2023-03-14T16:29:08.870855: info: MemoryUsage: V: 421.4 GB, R: 622 MB, P: 0 Bytes
+2023-03-14T16:29:08.894745: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:08.897590: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:08.899910: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:29:08.899952: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:29:08.899968: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:29:08.899979: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:29:08.900050: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:29:08.900086: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:29:08.906144: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:08.916912: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:08.917017: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:08.927172: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:29:08.948474: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:29:08.948493: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:29:08.948600: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:29:08.949229: info: Default App: End ExchangeDocument
+2023-03-14T16:29:08.949246: info: MemoryUsage: V: 421.4 GB, R: 645.8 MB, P: 0 Bytes
+2023-03-14T16:29:08.975583: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/104/0
+2023-03-14T16:29:08.985288: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:08.986016: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:08.990601: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:29:08.990683: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:29:08.990700: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:29:08.990714: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:29:08.990729: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:29:08.990747: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:29:08.996118: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:09.005682: info: LSongAgent: Begin Destructing
+2023-03-14T16:29:09.006050: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:09.006060: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:09.007800: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/36/0
+2023-03-14T16:29:09.007882: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:29:09.011513: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:09.011544: info: Audio In Out: Stop started
+2023-03-14T16:29:09.014976: info: Audio In Out: Begin of UpdateAudioStateStatic
+2023-03-14T16:29:09.015184: info: Audio In Out: Driver Type: CoreAudio
+2023-03-14T16:29:09.015197: info: Audio In Out: Input Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:29:09.015203: info: Audio In Out: Output Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:29:09.015212: info: Audio In Out: Input Buffer Size: 256 Samples
+2023-03-14T16:29:09.015218: info: Audio In Out: Input Latency: 0.00 ms
+2023-03-14T16:29:09.015223: info: Audio In Out: Driver Error Compensation (ms): 0.00 ms
+2023-03-14T16:29:09.015228: info: Audio In Out: Overall Latency: 17.2 ms
+2023-03-14T16:29:09.015371: info: Audio In Out: End of UpdateAudioStateStatic
+2023-03-14T16:29:09.015479: info: Audio In Out: Stop finished
+2023-03-14T16:29:09.015627: info: Audio In Out: Exit started
+2023-03-14T16:29:09.015634: info: Audio In Out: Exit finished
+2023-03-14T16:29:09.015638: info: LSongAgent: End Destructing
+2023-03-14T16:29:09.015819: info: MidiDeviceManager: Start CloseAllActivatedDevices
+2023-03-14T16:29:09.018013: info: MidiDeviceManager: End CloseAllActivatedDevices
+2023-03-14T16:29:09.018704: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:09.018724: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:29:09.018736: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/6/0
+2023-03-14T16:29:09.019931: info: Live App: GlobalExit(): Start
+2023-03-14T16:29:09.022911: info: Audio time allocations: AudioBuffer: Capacity/Used/Failures: 1000/0/0
+2023-03-14T16:29:09.022966: info: Audio time allocations: AudioBuffer: Capacity/Used/Failures: 1956/18/0
+2023-03-14T16:29:09.023609: info: WebConnectStarter: Stop
+2023-03-14T16:29:09.044532: info: Live App: GlobalExit(): End
+2023-03-14T16:29:09.833050: info: #######################################
+2023-03-14T16:29:09.833081: info: Started: Live 11.2.10 Build: 2023-02-01_a70e3f18ac
+2023-03-14T16:29:09.833086: info: #######################################
+2023-03-14T16:29:09.833090: info: Init: Setup environment
+2023-03-14T16:29:09.833097: info: Options: -_RepairNonUniquePointeeIds
+2023-03-14T16:29:09.868548: info: UUID: 2237491A-DF70-315C-A3AE-2CBAC2401A7B
+2023-03-14T16:29:09.869806: info: Code ID: identifier "com.ableton.live" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = MWR434WD94
+2023-03-14T16:29:09.869835: info: Init: Version: 'Live 11.2.10 Build: 2023-02-01_a70e3f18ac' 1114640
+2023-03-14T16:29:09.869868: info: Init: BuildRevisions: a70e3f18ac1d93094ec19c7ca1ea7cfc1a1a7543
+2023-03-14T16:29:09.869881: info: Init: Commit ID: 'a70e3f18ac1d93094ec19c7ca1ea7cfc1a1a7543'
+2023-03-14T16:29:09.870315: info: Init: OS: 'macOS 12.5.1 (21G83), Arch:arm64'
+2023-03-14T16:29:09.870331: info: Init: BuildType: 'Release'
+2023-03-14T16:29:09.870360: info: Init: Pid: 5237
+2023-03-14T16:29:09.870378: info: Init: Hardware Model: 'Mac13,1'
+2023-03-14T16:29:09.870386: info: Init: CPU Brand String: 'Apple M1 Max'
+2023-03-14T16:29:09.870395: info: Init: CPU Count: 10
+2023-03-14T16:29:09.870405: info: Init: Physical RAM: 34359738368 B
+2023-03-14T16:29:09.870409: info: Init: Address Space: 18446744073709551615 B
+2023-03-14T16:29:09.870413: info: Init: 64-bit Edition
+2023-03-14T16:29:10.317727: info: Init: Checksum 1: 6ce8613076be07b07f15e36287902ffe
+2023-03-14T16:29:10.466816: info: Init: Checksum 2: 43ce93bb20dce13acb4d6d867c993abb
+2023-03-14T16:29:10.612170: info: Init: Checksum 3: 43ce93bb20dce13acb4d6d867c993abb
+2023-03-14T16:29:10.616300: info: Licensing: [Variant=Standard]
+2023-03-14T16:29:10.616598: info: Metadata: Initialize XMP system
+2023-03-14T16:29:10.616762: info: Net: Setting up connection framework
+2023-03-14T16:29:10.617655: info: Licensing: Licenses loaded: 
+  [ProductId=0x00, ProductVersion=0xB0, DistributionType=KStandard]
+2023-03-14T16:29:10.617679: info: Licensing: Use server: https://services.ableton.com
+2023-03-14T16:29:10.652427: info: Init: Screen at +0+0: 1920x1080, scale 1
+2023-03-14T16:29:10.719108: info: FileLimit: Maximum number of files was : 256 (err: 0)
+2023-03-14T16:29:10.719156: info: FileLimit: Tried to set maximum number of files to : 8192 (err: 0)
+2023-03-14T16:29:10.719163: info: FileLimit: Maximum number of files now : 8192 (err: 0)
+2023-03-14T16:29:10.719168: info: Init LanguageManager
+2023-03-14T16:29:10.719291: info: MemoryUsage: V: 419.8 , R: 213 , P: 0 
+2023-03-14T16:29:11.089972: info: Init Menu
+2023-03-14T16:29:11.090102: info: Run event loop
+2023-03-14T16:29:11.121324: info: Begin building application
+2023-03-14T16:29:11.122873: info: Create App
+2023-03-14T16:29:11.123231: info: Register main window
+2023-03-14T16:29:11.123243: info: Check for other instance
+2023-03-14T16:29:11.134977: info: Init App
+2023-03-14T16:29:11.135021: info: Live App: Init usage data writer
+2023-03-14T16:29:11.136124: info: Live App: Begin Init
+2023-03-14T16:29:11.136139: info: Live App: Start as first instance: yes
+2023-03-14T16:29:11.136183: info: Database: Loading database from "/Users/philiptabor/Library/Application Support/Ableton/Live Database/Live-files-53.db"
+2023-03-14T16:29:11.136209: info: Database: Open database '/Users/philiptabor/Library/Application Support/Ableton/Live Database/Live-files-53.db' (key: SQL[2], sqlite 3.30.1)
+2023-03-14T16:29:11.152057: info: Database: Open database '/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Database/filerefmap.db' (key: SQL[3], sqlite 3.30.1)
+2023-03-14T16:29:11.153474: info: Default App: Begin InitApplication
+2023-03-14T16:29:11.206554: info: Metal: Enabled.
+2023-03-14T16:29:11.211564: info: Metal: Using Apple M1 Max.
+  GPU feature set support:
+    Family1_v1:              true
+    Family1_v2:              true
+    Family1_v3:              true
+    Family1_v4:              true
+    Family2_v1:              true
+    ReadWriteTextureTier2:   false
+2023-03-14T16:29:11.219962: info: Default App: Begin LoadPrefs
+2023-03-14T16:29:11.220488: info: VuMeter: Use default. MeterUpdateRate = 40
+2023-03-14T16:29:11.220507: info: Audio In Out: Constructor started
+2023-03-14T16:29:11.220516: info: Audio In Out: Constructor finished
+2023-03-14T16:29:11.242644: info: CoreAudio: Device init: Universal Audio Thunderbolt (34 In, 36 Out) (Universal Audio, Inc., Id: 54, UniqueId: com_uaudio_driver_UAD2AudioEngine:0)
+2023-03-14T16:29:11.243082: info: CoreAudio: Device init: R240HY (0 In, 2 Out) (ACR, Id: 59, UniqueId: 04726F04-0000-0000-201E-010380351E78)
+2023-03-14T16:29:11.244397: info: CoreAudio: Device init: UHD Capture (2 In, 0 Out) (VXIS Inc, Id: 44, UniqueId: AppleUSBAudioEngine:VXIS Inc:UHD Capture:8130000:3)
+2023-03-14T16:29:11.244953: info: CoreAudio: Device init: Mac Studio Speakers (0 In, 2 Out) (Apple Inc., Id: 48, UniqueId: BuiltInSpeakerDevice)
+2023-03-14T16:29:11.244984: info: Audio In Out: OnArchitecturesAdded started
+2023-03-14T16:29:11.245000: info: Audio In Out: OnArchitecturesAdded finished
+2023-03-14T16:29:11.442455: info: ALMidiIO: Start EnumerateDevices
+2023-03-14T16:29:11.445476: info: ALMidiIO: End EnumerateDevices
+2023-03-14T16:29:11.447629: info: Audio In Out: Init started
+2023-03-14T16:29:11.447801: info: Audio In Out: Init finished
+2023-03-14T16:29:11.447823: info: LSongAgent: Begin Constructing
+2023-03-14T16:29:11.451650: info: LSongAgent: End Constructing
+2023-03-14T16:29:11.451709: info: MemoryUsage: V: 419.9 GB, R: 290.9 MB, P: 0 Bytes
+2023-03-14T16:29:11.452432: info: Audio In Out: AfterRead started
+2023-03-14T16:29:11.452474: info: Audio In Out: AfterRead finished
+2023-03-14T16:29:11.452566: info: MidiDeviceManager: Start OpenAllActivatedDevices
+2023-03-14T16:29:11.455946: info: MidiDeviceManager: End OpenAllActivatedDevices
+2023-03-14T16:29:11.456085: info: ALivePreferences: Begin AfterPreferencesLoaded
+2023-03-14T16:29:11.456097: info: ALivePreferences: Session cookie?: yes
+2023-03-14T16:29:11.465557: info: Directories: Core Library Slice dir: [/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library] 
+2023-03-14T16:29:11.465729: info: PluginManager: Scan start ------------------
+2023-03-14T16:29:11.465990: info: Audio Unit: Scan started
+2023-03-14T16:29:11.499459: info: Audio Unit: Scan ended
+2023-03-14T16:29:11.499859: info: Plugins: start scanner process
+2023-03-14T16:29:11.500113: info: PluginManager: Scan end --------------------
+2023-03-14T16:29:11.500140: info: ALivePreferences: End AfterPreferencesLoaded
+2023-03-14T16:29:11.500153: info: Default App: End LoadPrefs
+2023-03-14T16:29:11.514460: info: Default App: Performing pre-document setup...
+2023-03-14T16:29:12.725008: info: LiveUi: AddControlled...
+2023-03-14T16:29:12.739987: info: LiveUi: AddControlled: done.
+2023-03-14T16:29:12.740048: info: Default App: Checking whether to restore the document...
+2023-03-14T16:29:12.740106: info: Default App: Begin OnNew
+2023-03-14T16:29:12.745001: info: Default App: TryToLoadTemplate: Default document exists. Going to load "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Builtin/Templates/DefaultLiveSet.als"'
+2023-03-14T16:29:12.750286: info: Default App: Begin ExchangeDocument
+2023-03-14T16:29:12.750335: info: MemoryUsage: V: 421 GB, R: 314.4 MB, P: 0 Bytes
+2023-03-14T16:29:12.765612: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:12.765629: info: Audio In Out: Start started
+2023-03-14T16:29:12.765636: info: Audio In Out: Internal Start started
+2023-03-14T16:29:12.772488: info: Audio In Out: Begin of UpdateAudioStateStatic
+2023-03-14T16:29:12.774044: info: Audio In Out: Driver Type: CoreAudio
+2023-03-14T16:29:12.774069: info: Audio In Out: Input Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:29:12.774076: info: Audio In Out: Output Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:29:12.774085: info: Audio In Out: Input Channels: 16
+2023-03-14T16:29:12.774089: info: Audio In Out: Output Channels: 16
+2023-03-14T16:29:12.774095: info: Audio In Out: Sample Rate: 48000
+2023-03-14T16:29:12.774103: info: Audio In Out: Input Buffer Size: 256 Samples
+2023-03-14T16:29:12.774241: info: Audio In Out: Input Latency: 11.4 ms
+2023-03-14T16:29:12.774378: info: Audio In Out: Output Buffer Size: 256 Samples
+2023-03-14T16:29:12.774504: info: Audio In Out: Output Latency: 5.85 ms
+2023-03-14T16:29:12.774756: info: Audio In Out: Output Latency (with buffering): 5.85 ms
+2023-03-14T16:29:12.775135: info: Audio In Out: Driver Error Compensation (ms): 0.00 ms
+2023-03-14T16:29:12.775148: info: Audio In Out: Overall Latency: 17.2 ms
+2023-03-14T16:29:12.775190: info: Audio In Out: End of UpdateAudioStateStatic
+2023-03-14T16:29:12.966269: info: Audio In Out: Internal Start finished
+2023-03-14T16:29:12.966313: info: Audio In Out: Start finished
+2023-03-14T16:29:12.966462: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:12.982974: info: MemoryUsage: V: 421 GB, R: 355.5 MB, P: 0 Bytes
+2023-03-14T16:29:12.990720: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:29:12.990738: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:29:12.990849: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:29:12.990903: info: Default App: End ExchangeDocument
+2023-03-14T16:29:12.990924: info: MemoryUsage: V: 421 GB, R: 355.6 MB, P: 0 Bytes
+2023-03-14T16:29:12.991028: info: Loading document "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Builtin/Templates/DefaultLiveSet.als"
+2023-03-14T16:29:13.013099: info: Loaded document was created by Ableton Live 11.1d1
+2023-03-14T16:29:13.013131: info: Default App: Begin ExchangeDocument
+2023-03-14T16:29:13.013143: info: MemoryUsage: V: 421 GB, R: 363 MB, P: 0 Bytes
+2023-03-14T16:29:13.094679: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:13.095222: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:13.100032: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:29:13.100083: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:29:13.100101: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:29:13.100115: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:29:13.100128: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:29:13.100151: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:29:13.112325: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:13.112512: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:13.120082: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/41/0
+2023-03-14T16:29:13.120320: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:29:13.183070: info: MemoryUsage: V: 421 GB, R: 414.4 MB, P: 0 Bytes
+2023-03-14T16:29:13.607824: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:29:13.607846: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:29:13.608029: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:29:13.608320: info: Python: INFO:_Framework.ControlSurface:608 - LOG: (css_test_script) Initializing...
+2023-03-14T16:29:13.608340: info: RemoteScriptMessage: (css_test_script) Initializing...
+2023-03-14T16:29:13.618906: info: Python: INFO:_Framework.ControlSurface:618 - LOG: (Launchpad_MK2) Initializing...
+2023-03-14T16:29:13.618945: info: RemoteScriptMessage: (Launchpad_MK2) Initializing...
+2023-03-14T16:29:13.708367: info: Default App: End ExchangeDocument
+2023-03-14T16:29:13.708426: info: MemoryUsage: V: 421 GB, R: 424.3 MB, P: 0 Bytes
+2023-03-14T16:29:13.710535: info: Default App: End InitApplication
+2023-03-14T16:29:13.710600: info: Live App: End Init
+2023-03-14T16:29:13.772275: info: Finish building application
+2023-03-14T16:29:13.803817: info: Performance: Startup hook 'CloseSplashScreen': Running time: 1 ms
+2023-03-14T16:29:13.824288: info: Performance: Startup hook 'OpenSecondWindowOnStartup': Running time: 0 ms
+2023-03-14T16:29:13.843617: info: WebConnectStarter: Starting up
+2023-03-14T16:29:13.845132: info: ExternalSubProcess: Going to start: "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Extensions/WebConnector/Ableton Web Connector"
+2023-03-14T16:29:13.846424: info: ExternalSubProcess: Started with pid: 5239
+2023-03-14T16:29:13.846442: info: Performance: Startup hook 'StartWebConnector': Running time: 3 ms
+2023-03-14T16:29:13.863085: info: Performance: Startup hook 'WriteUsageData': Running time: 0 ms
+2023-03-14T16:29:13.884165: info: ExternalSubProcess: Going to start: "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Extensions/Index/Ableton Index"
+2023-03-14T16:29:13.886072: info: ExternalSubProcess: Started with pid: 5240
+2023-03-14T16:29:13.886100: info: SubProcess: Set process priority 2 for pid 5240
+2023-03-14T16:29:13.886122: info: Performance: Startup hook 'StartIndex': Running time: 3 ms
+2023-03-14T16:29:13.912808: info: Licensing: Applying startup configuration: 00, IsDemo=false
+2023-03-14T16:29:13.919075: info: Performance: Startup hook 'CheckRegistrationAppStartupHook': Running time: 16 ms
+2023-03-14T16:29:13.939165: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:13.939398: info: Performance: Startup hook 'FileSystemEndUpdate': Running time: 0 ms
+2023-03-14T16:29:13.952550: info: Link: Disabled
+2023-03-14T16:29:14.361551: info: Max: Version 8.3.3 (6f7f6680766)
+2023-03-14T16:29:14.361879: info: Performance: Startup hook 'SetupMaxApp': Running time: 385 ms
+2023-03-14T16:29:14.361956: info: MemoryUsage: V: 421.1 GB, R: 533.4 MB, P: 0 Bytes
+2023-03-14T16:29:14.369642: info: Live App: Check for default content
+2023-03-14T16:29:14.373653: info: Performance: Startup hook 'DefaultPackInstallationAppStartupHook': Running time: 4 ms
+2023-03-14T16:29:14.380269: info: Live App: Check for package installation
+2023-03-14T16:29:14.380301: info: Performance: Startup hook 'UserTriggeredPackInstallationAppStartupHook': Running time: 0 ms
+2023-03-14T16:29:14.393053: info: Live App: Check lesson init
+2023-03-14T16:29:14.395437: info: Performance: Startup hook 'ShowLessonAppStartupHook': Running time: 3 ms
+2023-03-14T16:29:14.413031: info: Performance: Startup hook 'InitializeContentLibrary': Running time: 0 ms
+2023-03-14T16:29:14.451227: info: Performance: Startup hook 'StartLibraryRescan': Running time: 0 ms
+2023-03-14T16:29:14.453305: info: Performance: Startup hook 'FetchDownloadablePackListFromWeb': Running time: 0 ms
+2023-03-14T16:29:14.474343: info: Performance: Startup hook 'EndAuthorizationSession': Running time: 0 ms
+2023-03-14T16:29:14.792434: info: Plugins: scanner process stopped
+2023-03-14T16:29:17.077893: info: Default App: Command-line arguments: 
+  Document locations:
+    file:///Users/philiptabor/Downloads/King%20of%20Kings-Awake-D-68.00bpm/mapping%20test.als
+2023-03-14T16:29:17.088124: info: Default App: Begin ExchangeDocument
+2023-03-14T16:29:17.088184: info: MemoryUsage: V: 421.4 GB, R: 571.7 MB, P: 0 Bytes
+2023-03-14T16:29:17.121493: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:17.122798: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:17.126694: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:29:17.126757: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:29:17.126775: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:29:17.126793: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:29:17.126835: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:29:17.127107: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:29:17.138446: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:17.138573: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:17.148272: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/88/0
+2023-03-14T16:29:17.148337: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:29:17.166834: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:29:17.166853: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:29:17.166998: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:29:17.167896: info: Default App: End ExchangeDocument
+2023-03-14T16:29:17.167915: info: MemoryUsage: V: 421.4 GB, R: 592.7 MB, P: 0 Bytes
+2023-03-14T16:29:17.168702: info: Loading document "/Users/philiptabor/Downloads/King of Kings-Awake-D-68.00bpm/mapping test.als"
+2023-03-14T16:29:17.189875: info: Audio Unit v2: Going to restore: DMXIS (fx)
+2023-03-14T16:29:18.167359: info: Loaded document was created by Ableton Live 11.2.10
+2023-03-14T16:29:18.168010: info: Default App: Begin ExchangeDocument
+2023-03-14T16:29:18.168058: info: MemoryUsage: V: 421.4 GB, R: 600.5 MB, P: 0 Bytes
+2023-03-14T16:29:18.182746: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:18.183389: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:18.188321: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:29:18.188511: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:29:18.188578: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:29:18.188606: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:29:18.188628: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:29:18.188643: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:29:18.193602: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:18.201360: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:18.201533: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:18.208292: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/36/0
+2023-03-14T16:29:18.208548: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:29:18.472080: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:29:18.472102: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:29:18.472212: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:29:18.472489: info: Python: INFO:_Framework.ControlSurface:472 - LOG: (css_test_script) Initializing...
+2023-03-14T16:29:18.472508: info: RemoteScriptMessage: (css_test_script) Initializing...
+2023-03-14T16:29:18.496531: info: Python: INFO:_Framework.ControlSurface:496 - LOG: (Launchpad_MK2) Initializing...
+2023-03-14T16:29:18.496584: info: RemoteScriptMessage: (Launchpad_MK2) Initializing...
+2023-03-14T16:29:18.558490: info: Default App: End ExchangeDocument
+2023-03-14T16:29:18.558519: info: MemoryUsage: V: 421.4 GB, R: 635.1 MB, P: 0 Bytes
+2023-03-14T16:29:18.604756: info: Audio Unit v2: Restored: DMXIS (fx)
+2023-03-14T16:29:18.783177: info: Link: Disabled
+2023-03-14T16:29:52.979708: info: Default App: Begin SavePrefs
+2023-03-14T16:29:52.985581: info: Default App: End SavePrefs
+2023-03-14T16:29:54.772302: info: Default App: Begin ExchangeDocument
+2023-03-14T16:29:54.772354: info: MemoryUsage: V: 421.4 GB, R: 632.3 MB, P: 0 Bytes
+2023-03-14T16:29:54.796546: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:54.798684: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:54.801855: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:29:54.801941: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:29:54.801960: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:29:54.801976: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:29:54.801992: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:29:54.802004: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:29:54.808157: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:54.818299: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:54.818414: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:54.829212: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:29:54.850339: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:29:54.850358: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:29:54.850463: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:29:54.851088: info: Default App: End ExchangeDocument
+2023-03-14T16:29:54.851117: info: MemoryUsage: V: 421.4 GB, R: 637.2 MB, P: 0 Bytes
+2023-03-14T16:29:54.877441: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/104/0
+2023-03-14T16:29:54.887134: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:54.887774: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:54.892262: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:29:54.892364: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:29:54.892378: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:29:54.892389: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:29:54.892400: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:29:54.892411: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:29:54.897759: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:54.907277: info: LSongAgent: Begin Destructing
+2023-03-14T16:29:54.907716: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:54.907726: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:54.908928: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/36/0
+2023-03-14T16:29:54.909236: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:29:54.913334: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:54.913504: info: Audio In Out: Stop started
+2023-03-14T16:29:54.916643: info: Audio In Out: Begin of UpdateAudioStateStatic
+2023-03-14T16:29:54.916843: info: Audio In Out: Driver Type: CoreAudio
+2023-03-14T16:29:54.916852: info: Audio In Out: Input Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:29:54.916857: info: Audio In Out: Output Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:29:54.916864: info: Audio In Out: Input Buffer Size: 256 Samples
+2023-03-14T16:29:54.916869: info: Audio In Out: Input Latency: 0.00 ms
+2023-03-14T16:29:54.916876: info: Audio In Out: Driver Error Compensation (ms): 0.00 ms
+2023-03-14T16:29:54.916881: info: Audio In Out: Overall Latency: 17.2 ms
+2023-03-14T16:29:54.916930: info: Audio In Out: End of UpdateAudioStateStatic
+2023-03-14T16:29:54.916990: info: Audio In Out: Stop finished
+2023-03-14T16:29:54.917153: info: Audio In Out: Exit started
+2023-03-14T16:29:54.917161: info: Audio In Out: Exit finished
+2023-03-14T16:29:54.917185: info: LSongAgent: End Destructing
+2023-03-14T16:29:54.917363: info: MidiDeviceManager: Start CloseAllActivatedDevices
+2023-03-14T16:29:54.917944: info: MidiDeviceManager: End CloseAllActivatedDevices
+2023-03-14T16:29:54.918983: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:29:54.919078: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:29:54.919175: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/6/0
+2023-03-14T16:29:54.920705: info: Live App: GlobalExit(): Start
+2023-03-14T16:29:54.923785: info: Audio time allocations: AudioBuffer: Capacity/Used/Failures: 1000/0/0
+2023-03-14T16:29:54.923852: info: Audio time allocations: AudioBuffer: Capacity/Used/Failures: 1956/18/0
+2023-03-14T16:29:54.924522: info: WebConnectStarter: Stop
+2023-03-14T16:29:54.946085: info: Live App: GlobalExit(): End
+2023-03-14T16:29:56.206582: info: #######################################
+2023-03-14T16:29:56.206626: info: Started: Live 11.2.10 Build: 2023-02-01_a70e3f18ac
+2023-03-14T16:29:56.206634: info: #######################################
+2023-03-14T16:29:56.206639: info: Init: Setup environment
+2023-03-14T16:29:56.206646: info: Options: -_RepairNonUniquePointeeIds
+2023-03-14T16:29:56.239036: info: UUID: 2237491A-DF70-315C-A3AE-2CBAC2401A7B
+2023-03-14T16:29:56.240594: info: Code ID: identifier "com.ableton.live" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = MWR434WD94
+2023-03-14T16:29:56.240623: info: Init: Version: 'Live 11.2.10 Build: 2023-02-01_a70e3f18ac' 1114640
+2023-03-14T16:29:56.240629: info: Init: BuildRevisions: a70e3f18ac1d93094ec19c7ca1ea7cfc1a1a7543
+2023-03-14T16:29:56.240633: info: Init: Commit ID: 'a70e3f18ac1d93094ec19c7ca1ea7cfc1a1a7543'
+2023-03-14T16:29:56.241094: info: Init: OS: 'macOS 12.5.1 (21G83), Arch:arm64'
+2023-03-14T16:29:56.241110: info: Init: BuildType: 'Release'
+2023-03-14T16:29:56.241116: info: Init: Pid: 5247
+2023-03-14T16:29:56.241134: info: Init: Hardware Model: 'Mac13,1'
+2023-03-14T16:29:56.241145: info: Init: CPU Brand String: 'Apple M1 Max'
+2023-03-14T16:29:56.241151: info: Init: CPU Count: 10
+2023-03-14T16:29:56.241162: info: Init: Physical RAM: 34359738368 B
+2023-03-14T16:29:56.241171: info: Init: Address Space: 18446744073709551615 B
+2023-03-14T16:29:56.241175: info: Init: 64-bit Edition
+2023-03-14T16:29:56.689680: info: Init: Checksum 1: 6ce8613076be07b07f15e36287902ffe
+2023-03-14T16:29:56.839016: info: Init: Checksum 2: 43ce93bb20dce13acb4d6d867c993abb
+2023-03-14T16:29:56.985120: info: Init: Checksum 3: 43ce93bb20dce13acb4d6d867c993abb
+2023-03-14T16:29:56.989516: info: Licensing: [Variant=Standard]
+2023-03-14T16:29:56.989803: info: Metadata: Initialize XMP system
+2023-03-14T16:29:56.989985: info: Net: Setting up connection framework
+2023-03-14T16:29:56.990919: info: Licensing: Licenses loaded: 
+  [ProductId=0x00, ProductVersion=0xB0, DistributionType=KStandard]
+2023-03-14T16:29:56.990950: info: Licensing: Use server: https://services.ableton.com
+2023-03-14T16:29:57.022170: info: Init: Screen at +0+0: 1920x1080, scale 1
+2023-03-14T16:29:57.088969: info: FileLimit: Maximum number of files was : 256 (err: 0)
+2023-03-14T16:29:57.089018: info: FileLimit: Tried to set maximum number of files to : 8192 (err: 0)
+2023-03-14T16:29:57.089024: info: FileLimit: Maximum number of files now : 8192 (err: 0)
+2023-03-14T16:29:57.089029: info: Init LanguageManager
+2023-03-14T16:29:57.089147: info: MemoryUsage: V: 419.8 , R: 214 , P: 0 
+2023-03-14T16:29:57.464321: info: Init Menu
+2023-03-14T16:29:57.464447: info: Run event loop
+2023-03-14T16:29:57.494327: info: Begin building application
+2023-03-14T16:29:57.495829: info: Create App
+2023-03-14T16:29:57.496090: info: Register main window
+2023-03-14T16:29:57.496101: info: Check for other instance
+2023-03-14T16:29:57.507904: info: Init App
+2023-03-14T16:29:57.507947: info: Live App: Init usage data writer
+2023-03-14T16:29:57.509169: info: Live App: Begin Init
+2023-03-14T16:29:57.509182: info: Live App: Start as first instance: yes
+2023-03-14T16:29:57.509229: info: Database: Loading database from "/Users/philiptabor/Library/Application Support/Ableton/Live Database/Live-files-53.db"
+2023-03-14T16:29:57.509254: info: Database: Open database '/Users/philiptabor/Library/Application Support/Ableton/Live Database/Live-files-53.db' (key: SQL[2], sqlite 3.30.1)
+2023-03-14T16:29:57.524912: info: Database: Open database '/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Database/filerefmap.db' (key: SQL[3], sqlite 3.30.1)
+2023-03-14T16:29:57.526399: info: Default App: Begin InitApplication
+2023-03-14T16:29:57.579355: info: Metal: Enabled.
+2023-03-14T16:29:57.583464: info: Metal: Using Apple M1 Max.
+  GPU feature set support:
+    Family1_v1:              true
+    Family1_v2:              true
+    Family1_v3:              true
+    Family1_v4:              true
+    Family2_v1:              true
+    ReadWriteTextureTier2:   false
+2023-03-14T16:29:57.592542: info: Default App: Begin LoadPrefs
+2023-03-14T16:29:57.593084: info: VuMeter: Use default. MeterUpdateRate = 40
+2023-03-14T16:29:57.593101: info: Audio In Out: Constructor started
+2023-03-14T16:29:57.593110: info: Audio In Out: Constructor finished
+2023-03-14T16:29:57.615117: info: CoreAudio: Device init: Universal Audio Thunderbolt (34 In, 36 Out) (Universal Audio, Inc., Id: 54, UniqueId: com_uaudio_driver_UAD2AudioEngine:0)
+2023-03-14T16:29:57.615393: info: CoreAudio: Device init: R240HY (0 In, 2 Out) (ACR, Id: 59, UniqueId: 04726F04-0000-0000-201E-010380351E78)
+2023-03-14T16:29:57.616612: info: CoreAudio: Device init: UHD Capture (2 In, 0 Out) (VXIS Inc, Id: 44, UniqueId: AppleUSBAudioEngine:VXIS Inc:UHD Capture:8130000:3)
+2023-03-14T16:29:57.616956: info: CoreAudio: Device init: Mac Studio Speakers (0 In, 2 Out) (Apple Inc., Id: 48, UniqueId: BuiltInSpeakerDevice)
+2023-03-14T16:29:57.616984: info: Audio In Out: OnArchitecturesAdded started
+2023-03-14T16:29:57.617014: info: Audio In Out: OnArchitecturesAdded finished
+2023-03-14T16:29:57.815623: info: ALMidiIO: Start EnumerateDevices
+2023-03-14T16:29:57.818595: info: ALMidiIO: End EnumerateDevices
+2023-03-14T16:29:57.820717: info: Audio In Out: Init started
+2023-03-14T16:29:57.821466: info: Audio In Out: Init finished
+2023-03-14T16:29:57.821499: info: LSongAgent: Begin Constructing
+2023-03-14T16:29:57.825565: info: LSongAgent: End Constructing
+2023-03-14T16:29:57.825635: info: MemoryUsage: V: 419.9 GB, R: 291.7 MB, P: 0 Bytes
+2023-03-14T16:29:57.826422: info: Audio In Out: AfterRead started
+2023-03-14T16:29:57.826463: info: Audio In Out: AfterRead finished
+2023-03-14T16:29:57.826559: info: MidiDeviceManager: Start OpenAllActivatedDevices
+2023-03-14T16:29:57.829791: info: MidiDeviceManager: End OpenAllActivatedDevices
+2023-03-14T16:29:57.829978: info: ALivePreferences: Begin AfterPreferencesLoaded
+2023-03-14T16:29:57.830005: info: ALivePreferences: Session cookie?: yes
+2023-03-14T16:29:57.837881: info: Directories: Core Library Slice dir: [/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library] 
+2023-03-14T16:29:57.838021: info: PluginManager: Scan start ------------------
+2023-03-14T16:29:57.838291: info: Audio Unit: Scan started
+2023-03-14T16:29:57.871463: info: Audio Unit: Scan ended
+2023-03-14T16:29:57.871912: info: Plugins: start scanner process
+2023-03-14T16:29:57.872201: info: PluginManager: Scan end --------------------
+2023-03-14T16:29:57.872227: info: ALivePreferences: End AfterPreferencesLoaded
+2023-03-14T16:29:57.872244: info: Default App: End LoadPrefs
+2023-03-14T16:29:57.887105: info: Default App: Performing pre-document setup...
+2023-03-14T16:29:59.101160: info: LiveUi: AddControlled...
+2023-03-14T16:29:59.115118: info: LiveUi: AddControlled: done.
+2023-03-14T16:29:59.115171: info: Default App: Checking whether to restore the document...
+2023-03-14T16:29:59.115231: info: Default App: Begin OnNew
+2023-03-14T16:29:59.120923: info: Default App: TryToLoadTemplate: Default document exists. Going to load "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Builtin/Templates/DefaultLiveSet.als"'
+2023-03-14T16:29:59.126510: info: Default App: Begin ExchangeDocument
+2023-03-14T16:29:59.126573: info: MemoryUsage: V: 421 GB, R: 314.7 MB, P: 0 Bytes
+2023-03-14T16:29:59.142313: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:59.142353: info: Audio In Out: Start started
+2023-03-14T16:29:59.142360: info: Audio In Out: Internal Start started
+2023-03-14T16:29:59.149416: info: Audio In Out: Begin of UpdateAudioStateStatic
+2023-03-14T16:29:59.150751: info: Audio In Out: Driver Type: CoreAudio
+2023-03-14T16:29:59.150791: info: Audio In Out: Input Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:29:59.150798: info: Audio In Out: Output Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:29:59.150809: info: Audio In Out: Input Channels: 16
+2023-03-14T16:29:59.150819: info: Audio In Out: Output Channels: 16
+2023-03-14T16:29:59.150825: info: Audio In Out: Sample Rate: 48000
+2023-03-14T16:29:59.150833: info: Audio In Out: Input Buffer Size: 256 Samples
+2023-03-14T16:29:59.150987: info: Audio In Out: Input Latency: 11.4 ms
+2023-03-14T16:29:59.151135: info: Audio In Out: Output Buffer Size: 256 Samples
+2023-03-14T16:29:59.151253: info: Audio In Out: Output Latency: 5.85 ms
+2023-03-14T16:29:59.151521: info: Audio In Out: Output Latency (with buffering): 5.85 ms
+2023-03-14T16:29:59.151875: info: Audio In Out: Driver Error Compensation (ms): 0.00 ms
+2023-03-14T16:29:59.151891: info: Audio In Out: Overall Latency: 17.2 ms
+2023-03-14T16:29:59.151927: info: Audio In Out: End of UpdateAudioStateStatic
+2023-03-14T16:29:59.343721: info: Audio In Out: Internal Start finished
+2023-03-14T16:29:59.343770: info: Audio In Out: Start finished
+2023-03-14T16:29:59.343922: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:59.365783: info: MemoryUsage: V: 421 GB, R: 355.9 MB, P: 0 Bytes
+2023-03-14T16:29:59.373777: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:29:59.373799: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:29:59.373912: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:29:59.373978: info: Default App: End ExchangeDocument
+2023-03-14T16:29:59.373995: info: MemoryUsage: V: 421 GB, R: 356.2 MB, P: 0 Bytes
+2023-03-14T16:29:59.374164: info: Loading document "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Builtin/Templates/DefaultLiveSet.als"
+2023-03-14T16:29:59.391486: info: Loaded document was created by Ableton Live 11.1d1
+2023-03-14T16:29:59.391508: info: Default App: Begin ExchangeDocument
+2023-03-14T16:29:59.391523: info: MemoryUsage: V: 421 GB, R: 363.5 MB, P: 0 Bytes
+2023-03-14T16:29:59.477479: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:59.478134: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:59.482865: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:29:59.482940: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:29:59.482977: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:29:59.483012: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:29:59.483027: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:29:59.483038: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:29:59.494679: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:29:59.494846: info: LSongAgent: End SetSongUnit
+2023-03-14T16:29:59.503531: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/41/0
+2023-03-14T16:29:59.503613: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:30:00.003050: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:30:00.003071: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:30:00.003213: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:30:00.003486: info: Python: INFO:_Framework.ControlSurface:3 - LOG: (css_test_script) Initializing...
+2023-03-14T16:30:00.003504: info: RemoteScriptMessage: (css_test_script) Initializing...
+2023-03-14T16:30:00.014117: info: Python: INFO:_Framework.ControlSurface:14 - LOG: (Launchpad_MK2) Initializing...
+2023-03-14T16:30:00.014167: info: RemoteScriptMessage: (Launchpad_MK2) Initializing...
+2023-03-14T16:30:00.075357: info: MemoryUsage: V: 421 GB, R: 408.3 MB, P: 0 Bytes
+2023-03-14T16:30:00.107078: info: Default App: End ExchangeDocument
+2023-03-14T16:30:00.107146: info: MemoryUsage: V: 421 GB, R: 412.4 MB, P: 0 Bytes
+2023-03-14T16:30:00.109185: info: Default App: End InitApplication
+2023-03-14T16:30:00.109248: info: Live App: End Init
+2023-03-14T16:30:00.170985: info: Finish building application
+2023-03-14T16:30:00.203773: info: Performance: Startup hook 'CloseSplashScreen': Running time: 1 ms
+2023-03-14T16:30:00.221420: info: Performance: Startup hook 'OpenSecondWindowOnStartup': Running time: 0 ms
+2023-03-14T16:30:00.242359: info: WebConnectStarter: Starting up
+2023-03-14T16:30:00.244502: info: ExternalSubProcess: Going to start: "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Extensions/WebConnector/Ableton Web Connector"
+2023-03-14T16:30:00.246489: info: ExternalSubProcess: Started with pid: 5249
+2023-03-14T16:30:00.246522: info: Performance: Startup hook 'StartWebConnector': Running time: 4 ms
+2023-03-14T16:30:00.261826: info: Performance: Startup hook 'WriteUsageData': Running time: 0 ms
+2023-03-14T16:30:00.283001: info: ExternalSubProcess: Going to start: "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Extensions/Index/Ableton Index"
+2023-03-14T16:30:00.284108: info: ExternalSubProcess: Started with pid: 5250
+2023-03-14T16:30:00.284128: info: SubProcess: Set process priority 2 for pid 5250
+2023-03-14T16:30:00.284143: info: Performance: Startup hook 'StartIndex': Running time: 3 ms
+2023-03-14T16:30:00.312176: info: Licensing: Applying startup configuration: 00, IsDemo=false
+2023-03-14T16:30:00.318229: info: Performance: Startup hook 'CheckRegistrationAppStartupHook': Running time: 17 ms
+2023-03-14T16:30:00.332095: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:30:00.332348: info: Performance: Startup hook 'FileSystemEndUpdate': Running time: 0 ms
+2023-03-14T16:30:00.341830: info: Link: Disabled
+2023-03-14T16:30:00.759573: info: Max: Version 8.3.3 (6f7f6680766)
+2023-03-14T16:30:00.759886: info: Performance: Startup hook 'SetupMaxApp': Running time: 388 ms
+2023-03-14T16:30:00.759982: info: MemoryUsage: V: 421.1 GB, R: 521.7 MB, P: 0 Bytes
+2023-03-14T16:30:00.770623: info: Live App: Check for default content
+2023-03-14T16:30:00.774849: info: Performance: Startup hook 'DefaultPackInstallationAppStartupHook': Running time: 4 ms
+2023-03-14T16:30:00.777860: info: Live App: Check for package installation
+2023-03-14T16:30:00.777890: info: Performance: Startup hook 'UserTriggeredPackInstallationAppStartupHook': Running time: 0 ms
+2023-03-14T16:30:00.792207: info: Live App: Check lesson init
+2023-03-14T16:30:00.794999: info: Performance: Startup hook 'ShowLessonAppStartupHook': Running time: 3 ms
+2023-03-14T16:30:00.812200: info: Performance: Startup hook 'InitializeContentLibrary': Running time: 0 ms
+2023-03-14T16:30:00.850458: info: Performance: Startup hook 'StartLibraryRescan': Running time: 0 ms
+2023-03-14T16:30:00.851413: info: Performance: Startup hook 'FetchDownloadablePackListFromWeb': Running time: 0 ms
+2023-03-14T16:30:00.872483: info: Performance: Startup hook 'EndAuthorizationSession': Running time: 0 ms
+2023-03-14T16:30:01.192250: info: Plugins: scanner process stopped
+2023-03-14T16:30:05.350376: info: Default App: Command-line arguments: 
+  Document locations:
+    file:///Users/philiptabor/Downloads/King%20of%20Kings-Awake-D-68.00bpm/mapping%20test.als
+2023-03-14T16:30:05.359349: info: Default App: Begin ExchangeDocument
+2023-03-14T16:30:05.359404: info: MemoryUsage: V: 421.4 GB, R: 559.4 MB, P: 0 Bytes
+2023-03-14T16:30:05.392293: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:30:05.393640: info: LSongAgent: End SetSongUnit
+2023-03-14T16:30:05.397520: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:30:05.397589: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:30:05.397606: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:30:05.397621: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:30:05.397638: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:30:05.397650: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:30:05.409485: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:30:05.409596: info: LSongAgent: End SetSongUnit
+2023-03-14T16:30:05.418898: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/88/0
+2023-03-14T16:30:05.418963: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:30:05.437993: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:30:05.438011: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:30:05.438125: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:30:05.438777: info: Default App: End ExchangeDocument
+2023-03-14T16:30:05.438804: info: MemoryUsage: V: 421.4 GB, R: 578.4 MB, P: 0 Bytes
+2023-03-14T16:30:05.439384: info: Loading document "/Users/philiptabor/Downloads/King of Kings-Awake-D-68.00bpm/mapping test.als"
+2023-03-14T16:30:05.460356: info: Audio Unit v2: Going to restore: DMXIS (fx)
+2023-03-14T16:30:06.426380: info: Loaded document was created by Ableton Live 11.2.10
+2023-03-14T16:30:06.427414: info: Default App: Begin ExchangeDocument
+2023-03-14T16:30:06.427467: info: MemoryUsage: V: 421.4 GB, R: 586 MB, P: 0 Bytes
+2023-03-14T16:30:06.442893: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:30:06.443528: info: LSongAgent: End SetSongUnit
+2023-03-14T16:30:06.448210: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:30:06.448393: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:30:06.448452: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:30:06.448466: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:30:06.448479: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:30:06.448495: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:30:06.453748: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:30:06.461414: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:30:06.461632: info: LSongAgent: End SetSongUnit
+2023-03-14T16:30:06.468636: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/36/0
+2023-03-14T16:30:06.468723: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:30:06.735309: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:30:06.735330: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:30:06.735643: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:30:06.735975: info: Python: INFO:_Framework.ControlSurface:735 - LOG: (css_test_script) Initializing...
+2023-03-14T16:30:06.735999: info: RemoteScriptMessage: (css_test_script) Initializing...
+2023-03-14T16:30:06.759232: info: Python: INFO:_Framework.ControlSurface:759 - LOG: (Launchpad_MK2) Initializing...
+2023-03-14T16:30:06.759303: info: RemoteScriptMessage: (Launchpad_MK2) Initializing...
+2023-03-14T16:30:06.818404: info: Default App: End ExchangeDocument
+2023-03-14T16:30:06.818444: info: MemoryUsage: V: 421.4 GB, R: 610.3 MB, P: 0 Bytes
+2023-03-14T16:30:06.872313: info: Audio Unit v2: Restored: DMXIS (fx)
+2023-03-14T16:30:07.032233: info: Link: Disabled
+2023-03-14T16:31:52.284736: info: Default App: Command-line arguments: 
+  Document locations:
+    file:///Users/philiptabor/Downloads/King%20of%20Kings-Awake-D-68.00bpm/mapping%20test.als
+2023-03-14T16:32:05.299596: info: Default App: Begin ExchangeDocument
+2023-03-14T16:32:05.299651: info: MemoryUsage: V: 421.4 GB, R: 616.4 MB, P: 0 Bytes
+2023-03-14T16:32:05.334743: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:32:05.337033: info: LSongAgent: End SetSongUnit
+2023-03-14T16:32:05.339950: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:32:05.340006: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:32:05.340023: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:32:05.340040: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:32:05.340063: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:32:05.340079: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:32:05.346111: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:32:05.357285: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:32:05.357404: info: LSongAgent: End SetSongUnit
+2023-03-14T16:32:05.366881: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:32:05.387732: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:32:05.387752: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:32:05.387862: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:32:05.388494: info: Default App: End ExchangeDocument
+2023-03-14T16:32:05.388516: info: MemoryUsage: V: 421.4 GB, R: 624.6 MB, P: 0 Bytes
+2023-03-14T16:32:05.389005: info: Loading document "/Users/philiptabor/Downloads/King of Kings-Awake-D-68.00bpm/mapping test.als"
+2023-03-14T16:32:05.410231: info: Audio Unit v2: Going to restore: DMXIS (fx)
+2023-03-14T16:32:06.353285: info: Loaded document was created by Ableton Live 11.2.10
+2023-03-14T16:32:06.353659: info: Default App: Begin ExchangeDocument
+2023-03-14T16:32:06.353686: info: MemoryUsage: V: 421.4 GB, R: 626.5 MB, P: 0 Bytes
+2023-03-14T16:32:06.360577: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/104/0
+2023-03-14T16:32:06.369153: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:32:06.369664: info: LSongAgent: End SetSongUnit
+2023-03-14T16:32:06.374483: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:32:06.374541: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:32:06.374555: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:32:06.374569: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:32:06.374585: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:32:06.374684: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:32:06.379981: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:32:06.387932: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:32:06.388123: info: LSongAgent: End SetSongUnit
+2023-03-14T16:32:06.395151: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/36/0
+2023-03-14T16:32:06.395249: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:32:06.428978: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:32:06.428999: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:32:06.429120: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:32:06.429446: info: Python: INFO:_Framework.ControlSurface:429 - LOG: (css_test_script) Initializing...
+2023-03-14T16:32:06.429472: info: RemoteScriptMessage: (css_test_script) Initializing...
+2023-03-14T16:32:06.439824: info: Python: INFO:_Framework.ControlSurface:439 - LOG: (Launchpad_MK2) Initializing...
+2023-03-14T16:32:06.439862: info: RemoteScriptMessage: (Launchpad_MK2) Initializing...
+2023-03-14T16:32:06.494226: info: Default App: End ExchangeDocument
+2023-03-14T16:32:06.494270: info: MemoryUsage: V: 421.4 GB, R: 644.4 MB, P: 0 Bytes
+2023-03-14T16:32:06.558379: info: Audio Unit v2: Restored: DMXIS (fx)
+2023-03-14T16:32:06.741426: info: Link: Disabled
+2023-03-14T16:34:55.224622: info: Default App: Begin SavePrefs
+2023-03-14T16:34:55.229492: info: Default App: End SavePrefs
+2023-03-14T16:34:57.954963: info: Default App: Begin ExchangeDocument
+2023-03-14T16:34:57.955021: info: MemoryUsage: V: 421.4 GB, R: 639.9 MB, P: 0 Bytes
+2023-03-14T16:34:57.976036: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:34:57.978185: info: LSongAgent: End SetSongUnit
+2023-03-14T16:34:57.981578: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:34:57.981689: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:34:57.981708: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:34:57.981721: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:34:57.981770: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:34:57.981793: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:34:57.987925: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:34:57.998758: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:34:57.998904: info: LSongAgent: End SetSongUnit
+2023-03-14T16:34:58.009045: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:34:58.030240: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:34:58.030259: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:34:58.030367: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:34:58.031003: info: Default App: End ExchangeDocument
+2023-03-14T16:34:58.031021: info: MemoryUsage: V: 421.4 GB, R: 640.2 MB, P: 0 Bytes
+2023-03-14T16:34:58.056298: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/104/0
+2023-03-14T16:34:58.066544: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:34:58.067236: info: LSongAgent: End SetSongUnit
+2023-03-14T16:34:58.071810: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:34:58.071990: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:34:58.072005: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:34:58.072017: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:34:58.072029: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:34:58.072041: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:34:58.077430: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:34:58.088066: info: LSongAgent: Begin Destructing
+2023-03-14T16:34:58.088489: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:34:58.088498: info: LSongAgent: End SetSongUnit
+2023-03-14T16:34:58.089826: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/36/0
+2023-03-14T16:34:58.089910: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:34:58.092860: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:34:58.092888: info: Audio In Out: Stop started
+2023-03-14T16:34:58.095981: info: Audio In Out: Begin of UpdateAudioStateStatic
+2023-03-14T16:34:58.096208: info: Audio In Out: Driver Type: CoreAudio
+2023-03-14T16:34:58.096217: info: Audio In Out: Input Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:34:58.096222: info: Audio In Out: Output Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:34:58.096230: info: Audio In Out: Input Buffer Size: 256 Samples
+2023-03-14T16:34:58.096235: info: Audio In Out: Input Latency: 0.00 ms
+2023-03-14T16:34:58.096241: info: Audio In Out: Driver Error Compensation (ms): 0.00 ms
+2023-03-14T16:34:58.096254: info: Audio In Out: Overall Latency: 17.2 ms
+2023-03-14T16:34:58.096577: info: Audio In Out: End of UpdateAudioStateStatic
+2023-03-14T16:34:58.096662: info: Audio In Out: Stop finished
+2023-03-14T16:34:58.096841: info: Audio In Out: Exit started
+2023-03-14T16:34:58.096849: info: Audio In Out: Exit finished
+2023-03-14T16:34:58.096853: info: LSongAgent: End Destructing
+2023-03-14T16:34:58.097034: info: MidiDeviceManager: Start CloseAllActivatedDevices
+2023-03-14T16:34:58.099471: info: MidiDeviceManager: End CloseAllActivatedDevices
+2023-03-14T16:34:58.100658: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:34:58.100687: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:34:58.100701: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/6/0
+2023-03-14T16:34:58.102590: info: Live App: GlobalExit(): Start
+2023-03-14T16:34:58.105533: info: Audio time allocations: AudioBuffer: Capacity/Used/Failures: 1000/0/0
+2023-03-14T16:34:58.105592: info: Audio time allocations: AudioBuffer: Capacity/Used/Failures: 1956/18/0
+2023-03-14T16:34:58.106253: info: WebConnectStarter: Stop
+2023-03-14T16:34:58.129556: info: Live App: GlobalExit(): End
+2023-03-14T16:34:59.641190: info: #######################################
+2023-03-14T16:34:59.641216: info: Started: Live 11.2.10 Build: 2023-02-01_a70e3f18ac
+2023-03-14T16:34:59.641222: info: #######################################
+2023-03-14T16:34:59.641226: info: Init: Setup environment
+2023-03-14T16:34:59.641232: info: Options: -_RepairNonUniquePointeeIds
+2023-03-14T16:34:59.677634: info: UUID: 2237491A-DF70-315C-A3AE-2CBAC2401A7B
+2023-03-14T16:34:59.678855: info: Code ID: identifier "com.ableton.live" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = MWR434WD94
+2023-03-14T16:34:59.678870: info: Init: Version: 'Live 11.2.10 Build: 2023-02-01_a70e3f18ac' 1114640
+2023-03-14T16:34:59.678875: info: Init: BuildRevisions: a70e3f18ac1d93094ec19c7ca1ea7cfc1a1a7543
+2023-03-14T16:34:59.678883: info: Init: Commit ID: 'a70e3f18ac1d93094ec19c7ca1ea7cfc1a1a7543'
+2023-03-14T16:34:59.679341: info: Init: OS: 'macOS 12.5.1 (21G83), Arch:arm64'
+2023-03-14T16:34:59.679357: info: Init: BuildType: 'Release'
+2023-03-14T16:34:59.679363: info: Init: Pid: 5264
+2023-03-14T16:34:59.679378: info: Init: Hardware Model: 'Mac13,1'
+2023-03-14T16:34:59.679407: info: Init: CPU Brand String: 'Apple M1 Max'
+2023-03-14T16:34:59.679426: info: Init: CPU Count: 10
+2023-03-14T16:34:59.679439: info: Init: Physical RAM: 34359738368 B
+2023-03-14T16:34:59.679444: info: Init: Address Space: 18446744073709551615 B
+2023-03-14T16:34:59.679449: info: Init: 64-bit Edition
+2023-03-14T16:35:00.130269: info: Init: Checksum 1: 6ce8613076be07b07f15e36287902ffe
+2023-03-14T16:35:00.279606: info: Init: Checksum 2: 43ce93bb20dce13acb4d6d867c993abb
+2023-03-14T16:35:00.422702: info: Init: Checksum 3: 43ce93bb20dce13acb4d6d867c993abb
+2023-03-14T16:35:00.426944: info: Licensing: [Variant=Standard]
+2023-03-14T16:35:00.427184: info: Metadata: Initialize XMP system
+2023-03-14T16:35:00.427341: info: Net: Setting up connection framework
+2023-03-14T16:35:00.428215: info: Licensing: Licenses loaded: 
+  [ProductId=0x00, ProductVersion=0xB0, DistributionType=KStandard]
+2023-03-14T16:35:00.428246: info: Licensing: Use server: https://services.ableton.com
+2023-03-14T16:35:00.464015: info: Init: Screen at +0+0: 1920x1080, scale 1
+2023-03-14T16:35:00.528858: info: FileLimit: Maximum number of files was : 256 (err: 0)
+2023-03-14T16:35:00.528906: info: FileLimit: Tried to set maximum number of files to : 8192 (err: 0)
+2023-03-14T16:35:00.528912: info: FileLimit: Maximum number of files now : 8192 (err: 0)
+2023-03-14T16:35:00.528916: info: Init LanguageManager
+2023-03-14T16:35:00.529031: info: MemoryUsage: V: 419.6 , R: 213.6 , P: 0 
+2023-03-14T16:35:00.895375: info: Init Menu
+2023-03-14T16:35:00.895493: info: Run event loop
+2023-03-14T16:35:00.923440: info: Begin building application
+2023-03-14T16:35:00.925211: info: Create App
+2023-03-14T16:35:00.925500: info: Register main window
+2023-03-14T16:35:00.925513: info: Check for other instance
+2023-03-14T16:35:00.937161: info: Init App
+2023-03-14T16:35:00.937197: info: Live App: Init usage data writer
+2023-03-14T16:35:00.938344: info: Live App: Begin Init
+2023-03-14T16:35:00.938355: info: Live App: Start as first instance: yes
+2023-03-14T16:35:00.938394: info: Database: Loading database from "/Users/philiptabor/Library/Application Support/Ableton/Live Database/Live-files-53.db"
+2023-03-14T16:35:00.938419: info: Database: Open database '/Users/philiptabor/Library/Application Support/Ableton/Live Database/Live-files-53.db' (key: SQL[2], sqlite 3.30.1)
+2023-03-14T16:35:00.953860: info: Database: Open database '/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Database/filerefmap.db' (key: SQL[3], sqlite 3.30.1)
+2023-03-14T16:35:00.955604: info: Default App: Begin InitApplication
+2023-03-14T16:35:01.008698: info: Metal: Enabled.
+2023-03-14T16:35:01.012927: info: Metal: Using Apple M1 Max.
+  GPU feature set support:
+    Family1_v1:              true
+    Family1_v2:              true
+    Family1_v3:              true
+    Family1_v4:              true
+    Family2_v1:              true
+    ReadWriteTextureTier2:   false
+2023-03-14T16:35:01.021468: info: Default App: Begin LoadPrefs
+2023-03-14T16:35:01.022169: info: VuMeter: Use default. MeterUpdateRate = 40
+2023-03-14T16:35:01.022195: info: Audio In Out: Constructor started
+2023-03-14T16:35:01.022207: info: Audio In Out: Constructor finished
+2023-03-14T16:35:01.045615: info: CoreAudio: Device init: Universal Audio Thunderbolt (34 In, 36 Out) (Universal Audio, Inc., Id: 54, UniqueId: com_uaudio_driver_UAD2AudioEngine:0)
+2023-03-14T16:35:01.046149: info: CoreAudio: Device init: R240HY (0 In, 2 Out) (ACR, Id: 59, UniqueId: 04726F04-0000-0000-201E-010380351E78)
+2023-03-14T16:35:01.048062: info: CoreAudio: Device init: UHD Capture (2 In, 0 Out) (VXIS Inc, Id: 44, UniqueId: AppleUSBAudioEngine:VXIS Inc:UHD Capture:8130000:3)
+2023-03-14T16:35:01.048502: info: CoreAudio: Device init: Mac Studio Speakers (0 In, 2 Out) (Apple Inc., Id: 48, UniqueId: BuiltInSpeakerDevice)
+2023-03-14T16:35:01.048525: info: Audio In Out: OnArchitecturesAdded started
+2023-03-14T16:35:01.048546: info: Audio In Out: OnArchitecturesAdded finished
+2023-03-14T16:35:01.242357: info: ALMidiIO: Start EnumerateDevices
+2023-03-14T16:35:01.245558: info: ALMidiIO: End EnumerateDevices
+2023-03-14T16:35:01.247668: info: Audio In Out: Init started
+2023-03-14T16:35:01.247829: info: Audio In Out: Init finished
+2023-03-14T16:35:01.247848: info: LSongAgent: Begin Constructing
+2023-03-14T16:35:01.251642: info: LSongAgent: End Constructing
+2023-03-14T16:35:01.251701: info: MemoryUsage: V: 419.8 GB, R: 289.6 MB, P: 0 Bytes
+2023-03-14T16:35:01.252348: info: Audio In Out: AfterRead started
+2023-03-14T16:35:01.252380: info: Audio In Out: AfterRead finished
+2023-03-14T16:35:01.252464: info: MidiDeviceManager: Start OpenAllActivatedDevices
+2023-03-14T16:35:01.255709: info: MidiDeviceManager: End OpenAllActivatedDevices
+2023-03-14T16:35:01.255851: info: ALivePreferences: Begin AfterPreferencesLoaded
+2023-03-14T16:35:01.255870: info: ALivePreferences: Session cookie?: yes
+2023-03-14T16:35:01.264903: info: Directories: Core Library Slice dir: [/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Core Library] 
+2023-03-14T16:35:01.265028: info: PluginManager: Scan start ------------------
+2023-03-14T16:35:01.265302: info: Audio Unit: Scan started
+2023-03-14T16:35:01.300388: info: Audio Unit: Scan ended
+2023-03-14T16:35:01.300799: info: Plugins: start scanner process
+2023-03-14T16:35:01.301067: info: PluginManager: Scan end --------------------
+2023-03-14T16:35:01.301093: info: ALivePreferences: End AfterPreferencesLoaded
+2023-03-14T16:35:01.301109: info: Default App: End LoadPrefs
+2023-03-14T16:35:01.315049: info: Default App: Performing pre-document setup...
+2023-03-14T16:35:02.521279: info: LiveUi: AddControlled...
+2023-03-14T16:35:02.536093: info: LiveUi: AddControlled: done.
+2023-03-14T16:35:02.536141: info: Default App: Checking whether to restore the document...
+2023-03-14T16:35:02.536189: info: Default App: Begin OnNew
+2023-03-14T16:35:02.541151: info: Default App: TryToLoadTemplate: Default document exists. Going to load "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Builtin/Templates/DefaultLiveSet.als"'
+2023-03-14T16:35:02.547305: info: Default App: Begin ExchangeDocument
+2023-03-14T16:35:02.547342: info: MemoryUsage: V: 420.9 GB, R: 312.8 MB, P: 0 Bytes
+2023-03-14T16:35:02.565436: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:35:02.565481: info: Audio In Out: Start started
+2023-03-14T16:35:02.565489: info: Audio In Out: Internal Start started
+2023-03-14T16:35:02.572308: info: Audio In Out: Begin of UpdateAudioStateStatic
+2023-03-14T16:35:02.573688: info: Audio In Out: Driver Type: CoreAudio
+2023-03-14T16:35:02.573725: info: Audio In Out: Input Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:35:02.573735: info: Audio In Out: Output Device: Universal Audio Thunderbolt (34 In, 36 Out)
+2023-03-14T16:35:02.573745: info: Audio In Out: Input Channels: 16
+2023-03-14T16:35:02.573752: info: Audio In Out: Output Channels: 16
+2023-03-14T16:35:02.573760: info: Audio In Out: Sample Rate: 48000
+2023-03-14T16:35:02.573768: info: Audio In Out: Input Buffer Size: 256 Samples
+2023-03-14T16:35:02.573896: info: Audio In Out: Input Latency: 11.4 ms
+2023-03-14T16:35:02.574033: info: Audio In Out: Output Buffer Size: 256 Samples
+2023-03-14T16:35:02.574175: info: Audio In Out: Output Latency: 5.85 ms
+2023-03-14T16:35:02.574454: info: Audio In Out: Output Latency (with buffering): 5.85 ms
+2023-03-14T16:35:02.574839: info: Audio In Out: Driver Error Compensation (ms): 0.00 ms
+2023-03-14T16:35:02.574860: info: Audio In Out: Overall Latency: 17.2 ms
+2023-03-14T16:35:02.574904: info: Audio In Out: End of UpdateAudioStateStatic
+2023-03-14T16:35:02.765347: info: Audio In Out: Internal Start finished
+2023-03-14T16:35:02.765392: info: Audio In Out: Start finished
+2023-03-14T16:35:02.765543: info: LSongAgent: End SetSongUnit
+2023-03-14T16:35:02.782177: info: MemoryUsage: V: 420.9 GB, R: 354.7 MB, P: 0 Bytes
+2023-03-14T16:35:02.790217: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:35:02.790238: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:35:02.790357: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:35:02.790387: info: Default App: End ExchangeDocument
+2023-03-14T16:35:02.790400: info: MemoryUsage: V: 420.9 GB, R: 355 MB, P: 0 Bytes
+2023-03-14T16:35:02.790535: info: Loading document "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Builtin/Templates/DefaultLiveSet.als"
+2023-03-14T16:35:02.812973: info: Loaded document was created by Ableton Live 11.1d1
+2023-03-14T16:35:02.813015: info: Default App: Begin ExchangeDocument
+2023-03-14T16:35:02.813029: info: MemoryUsage: V: 420.9 GB, R: 362.7 MB, P: 0 Bytes
+2023-03-14T16:35:02.899136: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:35:02.899735: info: LSongAgent: End SetSongUnit
+2023-03-14T16:35:02.904539: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:35:02.904615: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:35:02.904647: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:35:02.904662: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:35:02.904675: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:35:02.904692: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:35:02.915846: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:35:02.915994: info: LSongAgent: End SetSongUnit
+2023-03-14T16:35:02.924565: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/41/0
+2023-03-14T16:35:02.924641: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:35:02.986610: info: MemoryUsage: V: 421 GB, R: 414.5 MB, P: 0 Bytes
+2023-03-14T16:35:03.417531: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:35:03.417553: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:35:03.417690: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:35:03.417946: info: Python: INFO:_Framework.ControlSurface:417 - LOG: (css_test_script) Initializing...
+2023-03-14T16:35:03.417964: info: RemoteScriptMessage: (css_test_script) Initializing...
+2023-03-14T16:35:03.427949: info: Python: INFO:_Framework.ControlSurface:427 - LOG: (Launchpad_MK2) Initializing...
+2023-03-14T16:35:03.428027: info: RemoteScriptMessage: (Launchpad_MK2) Initializing...
+2023-03-14T16:35:03.518067: info: Default App: End ExchangeDocument
+2023-03-14T16:35:03.518122: info: MemoryUsage: V: 421 GB, R: 425 MB, P: 0 Bytes
+2023-03-14T16:35:03.520191: info: Default App: End InitApplication
+2023-03-14T16:35:03.520258: info: Live App: End Init
+2023-03-14T16:35:03.581922: info: Finish building application
+2023-03-14T16:35:03.613484: info: Performance: Startup hook 'CloseSplashScreen': Running time: 1 ms
+2023-03-14T16:35:03.623709: info: Performance: Startup hook 'OpenSecondWindowOnStartup': Running time: 0 ms
+2023-03-14T16:35:03.642250: info: WebConnectStarter: Starting up
+2023-03-14T16:35:03.643355: info: ExternalSubProcess: Going to start: "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Extensions/WebConnector/Ableton Web Connector"
+2023-03-14T16:35:03.644551: info: ExternalSubProcess: Started with pid: 5267
+2023-03-14T16:35:03.644565: info: Performance: Startup hook 'StartWebConnector': Running time: 2 ms
+2023-03-14T16:35:03.662647: info: Performance: Startup hook 'WriteUsageData': Running time: 0 ms
+2023-03-14T16:35:03.673812: info: ExternalSubProcess: Going to start: "/Applications/Ableton Live 11 Standard.app/Contents/App-Resources/Extensions/Index/Ableton Index"
+2023-03-14T16:35:03.674929: info: ExternalSubProcess: Started with pid: 5268
+2023-03-14T16:35:03.674944: info: SubProcess: Set process priority 2 for pid 5268
+2023-03-14T16:35:03.674957: info: Performance: Startup hook 'StartIndex': Running time: 2 ms
+2023-03-14T16:35:03.712959: info: Licensing: Applying startup configuration: 00, IsDemo=false
+2023-03-14T16:35:03.719201: info: Performance: Startup hook 'CheckRegistrationAppStartupHook': Running time: 27 ms
+2023-03-14T16:35:03.742705: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:35:03.742984: info: Performance: Startup hook 'FileSystemEndUpdate': Running time: 0 ms
+2023-03-14T16:35:04.181239: info: Max: Version 8.3.3 (6f7f6680766)
+2023-03-14T16:35:04.181627: info: Performance: Startup hook 'SetupMaxApp': Running time: 407 ms
+2023-03-14T16:35:04.181709: info: MemoryUsage: V: 421.4 GB, R: 532.6 MB, P: 0 Bytes
+2023-03-14T16:35:04.193415: info: Link: Disabled
+2023-03-14T16:35:04.195496: info: Live App: Check for default content
+2023-03-14T16:35:04.199097: info: Performance: Startup hook 'DefaultPackInstallationAppStartupHook': Running time: 4 ms
+2023-03-14T16:35:04.202042: info: Live App: Check for package installation
+2023-03-14T16:35:04.202081: info: Performance: Startup hook 'UserTriggeredPackInstallationAppStartupHook': Running time: 0 ms
+2023-03-14T16:35:04.222878: info: Live App: Check lesson init
+2023-03-14T16:35:04.225320: info: Performance: Startup hook 'ShowLessonAppStartupHook': Running time: 3 ms
+2023-03-14T16:35:04.242312: info: Performance: Startup hook 'InitializeContentLibrary': Running time: 0 ms
+2023-03-14T16:35:04.282166: info: Performance: Startup hook 'StartLibraryRescan': Running time: 0 ms
+2023-03-14T16:35:04.293034: info: Performance: Startup hook 'FetchDownloadablePackListFromWeb': Running time: 1 ms
+2023-03-14T16:35:04.313073: info: Performance: Startup hook 'EndAuthorizationSession': Running time: 0 ms
+2023-03-14T16:35:04.602095: info: Plugins: scanner process stopped
+2023-03-14T16:35:16.162959: info: Default App: Command-line arguments: 
+  Document locations:
+    file:///Users/philiptabor/Downloads/King%20of%20Kings-Awake-D-68.00bpm/mapping%20test.als
+2023-03-14T16:35:16.174305: info: Default App: Begin ExchangeDocument
+2023-03-14T16:35:16.174370: info: MemoryUsage: V: 421.4 GB, R: 578.1 MB, P: 0 Bytes
+2023-03-14T16:35:16.206048: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:35:16.207321: info: LSongAgent: End SetSongUnit
+2023-03-14T16:35:16.211331: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:35:16.211390: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:35:16.211435: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:35:16.211448: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:35:16.211460: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:35:16.211472: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:35:16.222433: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:35:16.222560: info: LSongAgent: End SetSongUnit
+2023-03-14T16:35:16.232357: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/88/0
+2023-03-14T16:35:16.232461: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:35:16.251134: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:35:16.251153: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:35:16.251256: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:35:16.251818: info: Default App: End ExchangeDocument
+2023-03-14T16:35:16.251835: info: MemoryUsage: V: 421.4 GB, R: 602 MB, P: 0 Bytes
+2023-03-14T16:35:16.252371: info: Loading document "/Users/philiptabor/Downloads/King of Kings-Awake-D-68.00bpm/mapping test.als"
+2023-03-14T16:35:16.272300: info: Audio Unit v2: Going to restore: DMXIS (fx)
+2023-03-14T16:35:17.257602: info: Loaded document was created by Ableton Live 11.2.10
+2023-03-14T16:35:17.258111: info: Default App: Begin ExchangeDocument
+2023-03-14T16:35:17.258142: info: MemoryUsage: V: 421.4 GB, R: 611.1 MB, P: 0 Bytes
+2023-03-14T16:35:17.272565: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:35:17.273289: info: LSongAgent: End SetSongUnit
+2023-03-14T16:35:17.277800: info: Audio time allocations: Large Sysex Events: Capacity/Used/Failures: 7/0/0
+2023-03-14T16:35:17.277931: info: Audio time allocations: Medium Sysex Events: Capacity/Used/Failures: 1985/0/0
+2023-03-14T16:35:17.277993: info: Audio time allocations: Small Sysex Events: Capacity/Used/Failures: 13107/0/0
+2023-03-14T16:35:17.278009: info: Audio time allocations: Max Remote Automation Events: Capacity/Used/Failures: 5041/0/0
+2023-03-14T16:35:17.278021: info: Audio time allocations: Max Device Automation Events: Capacity/Used/Failures: 3196/0/0
+2023-03-14T16:35:17.278033: info: Audio time allocations: Max Device Midi Events: Capacity/Used/Failures: 7710/0/0
+2023-03-14T16:35:17.283367: info: Audio time allocations: Midi Delay: Capacity/Used/Failures: 21845/0/0
+2023-03-14T16:35:17.290674: info: LSongAgent: Begin SetSongUnit
+2023-03-14T16:35:17.290929: info: LSongAgent: End SetSongUnit
+2023-03-14T16:35:17.298891: info: Audio time allocations: EventBuffering: Capacity/Used/Failures: 18724/36/0
+2023-03-14T16:35:17.299025: info: Audio time allocations: Parameter Compensate Delay: Capacity/Used/Failures: 524288/0/0
+2023-03-14T16:35:17.574217: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:35:17.574240: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:35:17.574351: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+2023-03-14T16:35:17.574658: info: Python: INFO:_Framework.ControlSurface:574 - LOG: (css_test_script) Initializing...
+2023-03-14T16:35:17.574716: info: RemoteScriptMessage: (css_test_script) Initializing...
+2023-03-14T16:35:17.599038: info: Python: INFO:_Framework.ControlSurface:599 - LOG: (Launchpad_MK2) Initializing...
+2023-03-14T16:35:17.599080: info: RemoteScriptMessage: (Launchpad_MK2) Initializing...
+2023-03-14T16:35:17.658433: info: Default App: End ExchangeDocument
+2023-03-14T16:35:17.658479: info: MemoryUsage: V: 421.4 GB, R: 645.3 MB, P: 0 Bytes
+2023-03-14T16:35:17.720635: info: Audio Unit v2: Restored: DMXIS (fx)
+2023-03-14T16:35:17.882089: info: Link: Disabled
+2023-03-14T16:37:11.890830: info: Default App: Begin SavePrefs
+2023-03-14T16:37:11.897133: info: Default App: End SavePrefs
+2023-03-14T16:37:11.897267: info: AMidiIO: Midi Remote Scripts: 
+  MidiRemoteScript 1 [Control Surface="css_test_script" Input="MidiKeys" Output="None"]
+  MidiRemoteScript 2 [Control Surface="Launchpad_MK2" Input="Launchpad MK2" Output="Launchpad MK2"]
+  MidiRemoteScript 3 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 4 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 5 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 6 [Control Surface="None" Input="None" Output="None"]
+  MidiRemoteScript 7 [Control Surface="None" Input="None" Output="None"]
+2023-03-14T16:37:11.897278: info: AMidiIO: Takeover Mode: Pickup
+2023-03-14T16:37:11.897452: info: AMidiIO: Midi Devices: 
+  MidiInDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="MidiKeys", Track=false, Sync=false, Remote=true, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiInDevice [Name="Computer Keyboard", Track=true, Sync=false, Remote=false, MPE=false, MIDI Clock Sync Delay=0, Sync Type="MIDI Clock", MTC Frame Rate="All", MTC Start Offset=0]
+  MidiOutDevice [Name="Network (Ableton Output)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 1)", Track=true, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="IAC DRIVER (Bus 2)", Track=false, Sync=false, Remote=false, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
+  MidiOutDevice [Name="Launchpad MK2", Track=true, Sync=false, Remote=true, MIDI Clock Sync Delay=0, MIDI Clock Type="Song"]
