@@ -357,11 +357,48 @@ class css_test_script(ControlSurface):
 		self.device_id_3_bank_parameters_0 = [
 			"parameter_1_id_5"]
 	def midi_note_ch_0_val_24_mode1_listener(self, value):
-		self.midi_note_ch_0_val_24.cur_val = value 
+		self.midi_note_ch_0_val_24.cur_val = value
+		try:
+			reaction_listener_number = 1
+			loop_is_active = False
+			loop_number = 0
+			loop_result_count = 0
+			import time
+
+			new_macro_value = value / 127.0  # Normalize the MIDI velocity to a 0-1 range
+			smooth_time = 0.1  # Adjust this value to control the smoothness of the transition
+
+			macro_parameter = self.song().tracks[self.track_num(2)].devices[0].parameters[0]
+
+			def smooth_macro(current_value, target_value, smooth_time):
+				step_size = 0.01  # Adjust this value to control the granularity of the steps
+				if target_value < current_value:
+					step_size = -step_size
+
+				value_range = abs(target_value - current_value)
+				step_count = int(value_range / step_size)
+				if step_count == 0:
+					step_count = 1
+				sleep_time = smooth_time / step_count
+
+				for _ in range(step_count):
+					current_value += step_size
+					clamped_value = max(0, min(127, current_value))
+					macro_parameter.value = clamped_value
+					time.sleep(sleep_time)
+
+			current_macro_value = macro_parameter.value
+			smooth_macro(current_macro_value, new_macro_value, smooth_time)
+
+		except Exception as e:
+			self.log_message("csslog:(Test Script) There's a problem with 'Action Block 1' in reaction 'Smoother' (from 'Slider 112 was moved' listener) >> ")
+			self.log_message("csslog: >> " + str(e))
+
 		if not hasattr(self.midi_note_ch_0_val_24, "pre_val"):
 			self.midi_note_ch_0_val_24.pre_val = None
 		if not hasattr(self.midi_note_ch_0_val_24, "prev_press_time"):
 			self.midi_note_ch_0_val_24.prev_press_time = time.time()
+
 		if (self.device_id_3_active_bank == 0):
 			self.pick_brain(self.parameter_1_id_5)
 		self.midi_note_ch_0_val_24.pre_val = value
