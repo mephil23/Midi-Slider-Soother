@@ -358,42 +358,6 @@ class css_test_script(ControlSurface):
 			"parameter_1_id_5"]
 	def midi_note_ch_0_val_24_mode1_listener(self, value):
 		self.midi_note_ch_0_val_24.cur_val = value 
-		try:
-			reaction_listener_number = 1
-			loop_is_active = False
-			loop_number = 0
-			loop_result_count = 0
-			def midi_note_ch_0_val_24_mode1_listener(self, value):
-			    self.midi_note_ch_0_val_24.cur_val = value 
-			    try:
-			        reaction_listener_number = 1
-			        loop_is_active = False
-			        loop_number = 0
-			        loop_result_count = 0
-			        import time
-			        
-			        new_slider_value = self.slider_112.get_value()
-			        smooth_time = 0.5  
-			        
-			        def smooth_slider(current_value, target_value, smooth_time):
-			            step_size = 1
-			            if target_value < current_value:
-			                step_size = -1
-			        
-			            for value in range(current_value, target_value, step_size):
-			                self.slider_112.set_value(value)
-			                time.sleep(smooth_time / abs(target_value - current_value))
-			        
-			        current_slider_value = self.slider_112.get_value()
-			        smooth_slider(current_slider_value, new_slider_value, smooth_time)
-			        
-			    except Exception as e:
-			        self.log_message("csslog:(Test Script) There's a problem with 'Action Block 1' in reaction 'Smoother' (from 'Slider 112 was moved' listener) >> ")
-			        self.log_message("csslog: >> " + str(e) )
-			
-		except Exception as e:
-			self.log_message("csslog:(Test Script) There's a problem with 'Action Block 1' in reaction 'Smoother' (from 'Slider 112 was moved' listener) >> ")
-			self.log_message("csslog: >> " + str(e) )
 		if not hasattr(self.midi_note_ch_0_val_24, "pre_val"):
 			self.midi_note_ch_0_val_24.pre_val = None
 		if not hasattr(self.midi_note_ch_0_val_24, "prev_press_time"):
