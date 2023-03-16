@@ -370,19 +370,20 @@ class css_test_script(ControlSurface):
 
 			macro_parameter = self.song().tracks[self.track_num(2)].devices[0].parameters[0]
 
-			def smooth_macro(current_value, target_value, smooth_time):
+			def smooth_macro(initial_value, target_value, smooth_time):
 				step_size = 0.005  # Adjust this value to control the granularity of the steps
-				if target_value < current_value:
+				if target_value < initial_value:
 					step_size = -step_size
 
-			value_range = abs(target_value - current_value)
+			value_range = abs(target_value - initial_value)
 			step_count = int(value_range / step_size)
 			if step_count == 0:
 				step_count = 1
 			sleep_time = smooth_time / step_count
-
+			start_time = time.time()
 			for _ in range(step_count):
-				current_value += step_size
+				current_time = time.time()
+				current_value = initial_value + (step_size * (current_time - start_time) / smooth_time)
 				clamped_value = max(0, min(1, current_value))
 				macro_parameter.value = clamped_value
 				time.sleep(sleep_time)
