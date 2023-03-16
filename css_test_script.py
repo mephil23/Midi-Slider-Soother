@@ -359,27 +359,36 @@ class css_test_script(ControlSurface):
 	def midi_note_ch_0_val_24_mode1_listener(self, value):
 		self.midi_note_ch_0_val_24.cur_val = value
 		try:
-			new_macro_value = value / 127.0
-			smooth_time = 0.5
+			reaction_listener_number = 1
+			loop_is_active = False
+			loop_number = 0
+			loop_result_count = 0
+			import time
+
+			new_macro_value = value / 127.0  # Normalize the MIDI velocity to a 0-1 range
+			smooth_time = 0.5  # Adjust this value to control the smoothness of the transition
 
 			macro_parameter = self.song().tracks[self.track_num(2)].devices[0].parameters[0]
+
+			def smooth_macro(current_value, target_value, smooth_time):
+				step_size = 0.005  # Adjust this value to control the granularity of the steps
+				if target_value < current_value:
+					step_size = -step_size
+
+			value_range = abs(target_value - current_value)
+			step_count = int(value_range / step_size)
+			if step_count == 0:
+				step_count = 1
+			sleep_time = smooth_time / step_count
+
+			for _ in range(step_count):
+				current_value += step_size
+				clamped_value = max(0, min(1, current_value))
+				macro_parameter.value = clamped_value
+				time.sleep(sleep_time)
+
 			current_macro_value = macro_parameter.value
-
-			value_range = new_macro_value - current_macro_value
-			step_size = 0.01
-			step_count = int(abs(value_range) / step_size)
-
-			def step_macro():
-				nonlocal current_macro_value, value_range, step_count
-				current_macro_value += value_range / step_count
-				clamped_value = max(0, min(1, current_macro_value))
-				macro_parameter.value = clamped_value * 127
-
-				step_count -= 1
-				if step_count > 0:
-					self.schedule_message(int(smooth_time * 1000 / step_count), step_macro)
-
-				self.schedule_message(1, step_macro)
+			smooth_macro(current_macro_value, new_macro_value, smooth_time)
 
 		except Exception as e:
 			self.log_message("csslog:(Test Script) There's a problem with 'Action Block 1' in reaction 'Smoother' (from 'Slider 112 was moved' listener) >> ")
